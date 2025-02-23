@@ -1,0 +1,1001 @@
+PatientID,AdmissionDate,AdmissionTime,Department,WaitTimeMinutes,LengthOfStayHours,FeedbackCategory,Sentiment,PatientOrigin,DoctorReferral
+P0640,2024-02-20,17:17,Radiology,205,24.56324705362079,Wait Time,Neutral,Region-4,False
+P0026,2024-12-17,19:43,Emergency,119,53.54092193542709,Treatment Effectiveness,Negative,Region-7,True
+P0276,2024-07-07,19:07,Oncology,153,16.04314726196152,Treatment Effectiveness,Positive,Region-1,True
+P0224,2024-10-05,04:06,Emergency,73,39.796119191884074,Treatment Effectiveness,Negative,Region-1,True
+P0737,2024-11-26,12:23,Pediatrics,242,54.27521556142507,Treatment Effectiveness,Neutral,Region-5,False
+P0677,2024-07-02,10:35,Radiology,261,39.964803891590755,Staff Behavior,Negative,Region-2,False
+P0893,2024-02-01,11:48,Pediatrics,266,45.23598149288128,Wait Time,Negative,Region-3,True
+P0087,2024-07-22,04:12,Cardiology,51,71.45345110472788,Treatment Effectiveness,Positive,Region-6,False
+P0422,2024-05-21,19:32,Cardiology,208,50.35005119898633,Cleanliness,Neutral,Region-8,False
+P0030,2024-04-07,12:32,Oncology,191,48.44650131691682,Cleanliness,Negative,Region-8,False
+P0219,2024-03-03,01:02,Radiology,262,27.73907356257253,Staff Behavior,Positive,Region-8,False
+P0506,2024-08-20,01:08,Emergency,10,65.32886030607307,Staff Behavior,Negative,Region-2,False
+P0027,2024-02-16,22:21,Radiology,127,38.402735427671836,Treatment Effectiveness,Negative,Region-2,True
+P0199,2024-12-05,15:33,Radiology,89,19.137400463914087,Cleanliness,Neutral,Region-9,False
+P0650,2024-04-18,14:09,Oncology,268,5.267813519872437,Wait Time,Negative,Region-4,True
+P0545,2024-11-24,19:57,Pediatrics,76,15.249420047047606,Staff Behavior,Neutral,Region-8,True
+P0221,2024-11-23,16:08,Pediatrics,233,50.453394881453356,Wait Time,Negative,Region-3,True
+P0590,2024-11-01,10:59,Pediatrics,86,20.26098304814884,Treatment Effectiveness,Negative,Region-8,True
+P0810,2024-01-11,19:20,Orthopedics,96,34.01221810644722,Cleanliness,Positive,Region-5,False
+P0007,2024-01-26,05:25,Oncology,294,68.1075302406529,Staff Behavior,Positive,Region-3,True
+P0806,2024-06-19,19:47,Orthopedics,294,5.728443261934855,Wait Time,Negative,Region-3,False
+P0699,2024-05-04,09:37,Cardiology,79,47.886470610372996,Staff Behavior,Positive,Region-1,True
+P0341,2024-03-05,10:32,Orthopedics,252,48.07169613613105,Wait Time,Negative,Region-10,False
+P0156,2024-10-16,16:34,Orthopedics,188,65.81368340452855,Treatment Effectiveness,Neutral,Region-2,True
+P0958,2024-04-15,15:45,Radiology,25,26.57555910471112,Wait Time,Positive,Region-3,False
+P0337,2024-02-05,18:19,Radiology,117,8.660291748900416,Cleanliness,Neutral,Region-5,True
+P0093,2024-10-10,15:52,Radiology,254,21.767186005310275,Wait Time,Positive,Region-2,True
+P0097,2024-04-16,00:23,Pediatrics,123,63.72156437567019,Staff Behavior,Neutral,Region-9,True
+P0848,2024-10-27,10:43,Cardiology,37,28.443149055637207,Cleanliness,Neutral,Region-7,True
+P0604,2024-04-20,03:26,Oncology,140,70.56529242567558,Cleanliness,Neutral,Region-3,True
+P0808,2024-04-29,18:19,Pediatrics,194,37.10636358215993,Treatment Effectiveness,Neutral,Region-2,True
+P0730,2024-06-17,23:55,Cardiology,124,51.38790468180077,Staff Behavior,Negative,Region-1,True
+P0537,2024-03-16,22:40,Oncology,26,65.17491627035568,Wait Time,Negative,Region-5,False
+P0974,2024-11-01,00:38,Emergency,110,35.41101278022576,Cleanliness,Positive,Region-3,True
+P0379,2024-01-02,15:16,Orthopedics,270,43.394555007970375,Wait Time,Negative,Region-8,False
+P0553,2024-05-21,20:50,Orthopedics,189,7.2494674864086095,Treatment Effectiveness,Neutral,Region-6,True
+P0830,2024-03-15,18:36,Pediatrics,203,15.120139200584646,Cleanliness,Negative,Region-3,True
+P0619,2024-03-07,07:46,Orthopedics,245,69.64218744275736,Cleanliness,Negative,Region-4,False
+P0862,2024-10-03,01:37,Oncology,237,40.80881544031834,Wait Time,Negative,Region-1,True
+P0578,2024-05-08,15:10,Radiology,28,51.58531252686441,Cleanliness,Negative,Region-9,True
+P0705,2024-03-30,16:40,Emergency,25,3.822420631087135,Staff Behavior,Positive,Region-4,True
+P0046,2024-02-26,23:39,Emergency,170,66.48117821357019,Cleanliness,Positive,Region-8,True
+P0228,2024-12-04,12:09,Oncology,57,22.64985412868443,Cleanliness,Positive,Region-1,False
+P0290,2024-01-14,21:15,Emergency,271,35.78523202934404,Staff Behavior,Negative,Region-9,False
+P0080,2024-03-08,01:36,Cardiology,145,53.851741106416085,Treatment Effectiveness,Negative,Region-2,False
+P0233,2024-01-08,22:07,Radiology,139,2.304428000907397,Cleanliness,Positive,Region-7,True
+P0102,2024-07-02,06:01,Oncology,283,49.58610622574261,Cleanliness,Positive,Region-5,True
+P0278,2024-05-01,14:20,Pediatrics,296,26.231847460503868,Cleanliness,Neutral,Region-8,False
+P0636,2024-10-28,13:09,Cardiology,94,22.465161023814513,Wait Time,Positive,Region-1,False
+P0365,2024-06-14,13:44,Radiology,197,71.7156031985234,Cleanliness,Positive,Region-10,False
+P0371,2024-01-09,06:26,Pediatrics,198,70.4797355651025,Cleanliness,Negative,Region-1,True
+P0210,2024-03-30,16:49,Orthopedics,192,20.58735780898029,Staff Behavior,Negative,Region-1,False
+P0267,2024-05-15,19:58,Emergency,44,5.4026884766761745,Treatment Effectiveness,Neutral,Region-7,True
+P0937,2024-01-27,15:55,Emergency,269,19.2952348916686,Cleanliness,Positive,Region-4,False
+P0649,2024-03-05,23:46,Pediatrics,133,28.489111864704995,Treatment Effectiveness,Negative,Region-4,True
+P0610,2024-08-03,01:45,Emergency,197,71.99657785784426,Staff Behavior,Positive,Region-6,False
+P0172,2024-09-26,04:33,Emergency,119,71.31567263671813,Wait Time,Neutral,Region-4,False
+P0730,2024-02-28,06:35,Oncology,269,68.03370557278912,Staff Behavior,Positive,Region-4,False
+P0164,2024-02-02,10:42,Cardiology,212,68.38726570378067,Staff Behavior,Negative,Region-2,False
+P0380,2024-08-31,15:33,Emergency,185,17.016371531570556,Wait Time,Negative,Region-1,False
+P0990,2024-08-17,12:20,Pediatrics,181,25.266816852237636,Staff Behavior,Neutral,Region-7,True
+P0640,2024-07-04,05:29,Oncology,254,28.89210836322721,Cleanliness,Neutral,Region-1,False
+P0557,2024-09-19,17:21,Oncology,251,10.745508001993935,Cleanliness,Positive,Region-1,True
+P0685,2024-10-30,17:22,Cardiology,8,52.82216613841582,Cleanliness,Neutral,Region-6,True
+P0843,2024-02-25,21:49,Radiology,261,37.970966929219685,Treatment Effectiveness,Positive,Region-4,True
+P0776,2024-08-19,23:43,Orthopedics,76,49.137637656061614,Wait Time,Positive,Region-2,True
+P0230,2024-09-14,20:51,Pediatrics,230,62.96180442282741,Staff Behavior,Negative,Region-4,True
+P0033,2024-04-23,22:16,Cardiology,89,49.743155189956624,Cleanliness,Neutral,Region-2,False
+P0316,2024-11-10,19:30,Oncology,122,30.63066688973916,Cleanliness,Neutral,Region-3,True
+P0268,2024-01-23,06:15,Cardiology,44,41.67579726014428,Cleanliness,Positive,Region-3,False
+P0211,2024-12-03,08:35,Radiology,268,31.279014787883604,Treatment Effectiveness,Negative,Region-1,False
+P0943,2024-09-23,09:14,Pediatrics,148,23.179176275366636,Treatment Effectiveness,Neutral,Region-7,False
+P0877,2024-06-03,09:49,Oncology,113,43.981190825843925,Cleanliness,Neutral,Region-9,True
+P0315,2024-08-22,09:45,Orthopedics,81,32.89101215823439,Treatment Effectiveness,Neutral,Region-2,False
+P0656,2024-11-25,06:44,Oncology,100,10.355821391044302,Treatment Effectiveness,Neutral,Region-6,True
+P0396,2024-01-16,22:31,Cardiology,85,47.325557871452965,Staff Behavior,Negative,Region-6,False
+P0915,2024-02-01,10:30,Oncology,190,42.25317974713535,Treatment Effectiveness,Negative,Region-9,False
+P0459,2024-09-02,11:35,Pediatrics,65,49.567453174348614,Cleanliness,Positive,Region-4,False
+P0265,2024-07-24,23:17,Cardiology,122,15.364026563195317,Staff Behavior,Neutral,Region-10,False
+P0247,2024-08-06,09:07,Pediatrics,217,10.805784552834076,Wait Time,Neutral,Region-4,False
+P0562,2024-12-17,18:43,Radiology,174,49.88577835310014,Staff Behavior,Negative,Region-9,True
+P0263,2024-02-25,17:24,Radiology,63,64.80366505079112,Staff Behavior,Negative,Region-7,True
+P0585,2024-09-08,12:52,Emergency,251,65.57895279379879,Cleanliness,Negative,Region-7,True
+P0898,2024-12-30,11:49,Pediatrics,250,31.534565170807323,Treatment Effectiveness,Negative,Region-2,True
+P0400,2024-08-15,04:18,Oncology,250,65.5391487649095,Staff Behavior,Positive,Region-4,False
+P0220,2024-02-07,01:18,Orthopedics,112,55.67354984064266,Cleanliness,Positive,Region-4,False
+P0998,2024-02-11,22:05,Pediatrics,87,47.592454465069814,Treatment Effectiveness,Positive,Region-2,False
+P0510,2024-06-13,11:59,Oncology,215,41.10394439931929,Treatment Effectiveness,Neutral,Region-6,False
+P0091,2024-11-07,14:41,Radiology,16,12.221402097808054,Staff Behavior,Neutral,Region-6,True
+P0048,2024-03-16,08:47,Radiology,129,5.8147969362971255,Staff Behavior,Positive,Region-3,False
+P0110,2024-02-03,15:13,Pediatrics,27,38.84026983641618,Cleanliness,Neutral,Region-1,True
+P0628,2024-03-05,06:52,Oncology,70,52.08027591113371,Cleanliness,Negative,Region-7,False
+P0793,2024-05-20,17:17,Oncology,298,14.073600326101694,Treatment Effectiveness,Positive,Region-6,True
+P0423,2024-11-15,17:44,Emergency,87,60.60609820078542,Treatment Effectiveness,Neutral,Region-1,True
+P0064,2024-11-20,08:08,Cardiology,73,11.332120989431786,Wait Time,Neutral,Region-7,True
+P0382,2024-10-26,03:39,Radiology,267,3.093317593230946,Treatment Effectiveness,Neutral,Region-4,True
+P0997,2024-10-07,23:37,Emergency,25,23.626808632085947,Wait Time,Neutral,Region-8,True
+P0530,2024-12-30,07:15,Cardiology,298,70.07561849353351,Staff Behavior,Positive,Region-4,True
+P0972,2024-06-15,01:42,Radiology,80,69.24492929278966,Wait Time,Negative,Region-2,True
+P0861,2024-07-14,16:14,Oncology,33,22.537715453306717,Treatment Effectiveness,Neutral,Region-5,False
+P0012,2024-11-01,20:14,Orthopedics,90,53.93829082919333,Wait Time,Neutral,Region-10,True
+P0721,2024-09-28,01:06,Pediatrics,137,59.34059462311294,Wait Time,Neutral,Region-6,True
+P0682,2024-05-30,13:21,Pediatrics,97,46.21616530612671,Wait Time,Neutral,Region-1,False
+P0537,2024-08-20,22:30,Pediatrics,269,53.42211248308068,Wait Time,Negative,Region-2,False
+P0267,2024-09-15,03:43,Cardiology,212,11.788950959717182,Wait Time,Negative,Region-4,False
+P0641,2024-11-05,04:00,Emergency,293,14.343285758650088,Wait Time,Negative,Region-7,True
+P0112,2024-08-08,17:59,Radiology,14,10.339757502950734,Treatment Effectiveness,Negative,Region-5,True
+P0435,2024-02-20,05:26,Pediatrics,150,2.8600737238956304,Wait Time,Neutral,Region-10,True
+P0454,2024-12-25,20:59,Cardiology,48,71.00284710862259,Staff Behavior,Negative,Region-8,True
+P0954,2024-02-28,15:30,Pediatrics,115,44.80320189108882,Cleanliness,Negative,Region-2,True
+P0876,2024-12-01,20:12,Pediatrics,234,43.997920299023825,Treatment Effectiveness,Neutral,Region-9,False
+P0264,2024-11-29,09:20,Emergency,246,44.4777035221063,Staff Behavior,Neutral,Region-10,False
+P0501,2024-10-09,09:41,Cardiology,251,43.34160917613625,Staff Behavior,Negative,Region-3,False
+P0179,2024-04-20,01:58,Cardiology,92,17.39477880897991,Cleanliness,Neutral,Region-5,False
+P0913,2024-08-08,02:41,Emergency,117,2.8519989885952675,Wait Time,Neutral,Region-2,False
+P0871,2024-08-19,18:14,Cardiology,215,6.642755552068579,Wait Time,Neutral,Region-10,True
+P0299,2024-04-26,17:47,Orthopedics,78,56.36766373245982,Wait Time,Negative,Region-6,False
+P0639,2024-07-30,23:54,Cardiology,98,10.52015055466477,Treatment Effectiveness,Positive,Region-7,True
+P0609,2024-06-22,01:58,Cardiology,266,61.075814753283076,Treatment Effectiveness,Positive,Region-3,False
+P0153,2024-08-20,05:26,Pediatrics,140,34.282208379755595,Cleanliness,Negative,Region-6,False
+P0763,2024-07-23,05:59,Pediatrics,90,47.11936726831732,Staff Behavior,Positive,Region-3,True
+P0540,2024-07-31,01:53,Oncology,180,14.062329921880286,Cleanliness,Neutral,Region-6,True
+P0779,2024-02-18,12:50,Pediatrics,237,28.509680419360375,Cleanliness,Positive,Region-8,False
+P0531,2024-06-09,15:11,Radiology,40,34.6431313810006,Treatment Effectiveness,Positive,Region-2,True
+P0001,2024-08-06,23:55,Cardiology,122,12.628832658540064,Staff Behavior,Neutral,Region-6,False
+P0325,2024-06-09,09:56,Pediatrics,198,17.065387266042066,Cleanliness,Negative,Region-1,True
+P0020,2024-12-06,01:00,Emergency,202,30.00983037264837,Cleanliness,Negative,Region-10,True
+P0930,2024-05-10,09:36,Emergency,72,69.78587074626991,Cleanliness,Neutral,Region-10,True
+P0879,2024-07-10,19:06,Radiology,60,66.70589090257859,Staff Behavior,Positive,Region-8,False
+P0832,2024-03-19,10:18,Emergency,13,68.46406101678406,Cleanliness,Neutral,Region-7,False
+P0308,2024-12-17,14:41,Cardiology,108,16.801349078923707,Treatment Effectiveness,Negative,Region-9,True
+P0058,2024-08-30,17:33,Orthopedics,272,48.66507518414618,Staff Behavior,Neutral,Region-4,True
+P0879,2024-02-04,15:56,Emergency,263,15.401183909193708,Treatment Effectiveness,Positive,Region-9,False
+P0947,2024-02-16,04:54,Emergency,219,15.523909506914604,Wait Time,Negative,Region-10,False
+P0086,2024-02-13,16:29,Orthopedics,81,13.57255232948308,Staff Behavior,Positive,Region-1,False
+P0486,2024-02-17,08:12,Orthopedics,54,68.78363390996726,Staff Behavior,Negative,Region-4,False
+P0070,2024-08-09,03:21,Cardiology,95,32.189249400542366,Treatment Effectiveness,Neutral,Region-1,False
+P0761,2024-02-19,05:46,Orthopedics,248,44.81121463914175,Wait Time,Negative,Region-10,True
+P0766,2024-07-09,14:41,Orthopedics,24,49.83825199356369,Staff Behavior,Neutral,Region-2,True
+P0129,2024-03-07,08:45,Pediatrics,277,62.5410182661242,Treatment Effectiveness,Positive,Region-5,True
+P0476,2024-10-11,05:00,Cardiology,262,64.01867102475205,Cleanliness,Positive,Region-4,True
+P0550,2024-01-31,23:21,Oncology,65,31.35645351369336,Wait Time,Neutral,Region-7,True
+P0266,2024-10-27,09:36,Oncology,52,56.11124505825091,Cleanliness,Neutral,Region-4,True
+P0873,2024-10-14,21:48,Cardiology,251,44.16302701241192,Wait Time,Negative,Region-10,False
+P0424,2024-10-14,06:11,Emergency,71,59.52732454990272,Wait Time,Negative,Region-2,False
+P0212,2024-06-17,19:54,Radiology,281,52.134264858184174,Cleanliness,Negative,Region-1,False
+P0540,2024-12-09,20:57,Orthopedics,5,28.984700317806347,Treatment Effectiveness,Negative,Region-3,True
+P0730,2024-03-03,12:52,Cardiology,225,67.67887846168293,Treatment Effectiveness,Neutral,Region-6,False
+P0202,2024-07-29,13:32,Oncology,272,41.60734602928319,Wait Time,Negative,Region-8,False
+P0312,2024-06-30,10:05,Orthopedics,220,39.06731634804135,Wait Time,Negative,Region-5,True
+P0996,2024-12-06,12:42,Oncology,194,46.538961538527836,Treatment Effectiveness,Negative,Region-4,True
+P0650,2024-08-04,03:11,Oncology,27,50.99199108683549,Cleanliness,Neutral,Region-3,True
+P0439,2024-01-27,04:30,Radiology,276,3.7343500850058007,Staff Behavior,Positive,Region-7,True
+P0518,2024-05-27,10:59,Emergency,224,8.761456788065138,Staff Behavior,Positive,Region-4,True
+P0122,2024-11-03,07:00,Cardiology,122,33.43993010161606,Wait Time,Negative,Region-1,False
+P0225,2024-06-08,08:24,Oncology,251,63.321454666640825,Cleanliness,Negative,Region-4,True
+P0339,2024-06-29,07:28,Cardiology,200,63.322375615718826,Cleanliness,Negative,Region-10,True
+P0589,2024-02-23,08:21,Emergency,184,18.44623711576974,Treatment Effectiveness,Negative,Region-8,False
+P0231,2024-10-22,09:37,Emergency,299,39.188709185185985,Wait Time,Negative,Region-6,True
+P0221,2024-09-16,23:36,Emergency,55,70.85197570321765,Staff Behavior,Negative,Region-3,False
+P0071,2024-04-18,00:16,Pediatrics,222,3.7868651792166177,Treatment Effectiveness,Neutral,Region-5,True
+P0632,2024-03-20,20:23,Oncology,73,28.505247485972898,Cleanliness,Negative,Region-6,True
+P0229,2024-12-02,22:15,Cardiology,135,55.32635094058548,Wait Time,Positive,Region-1,True
+P0906,2024-09-03,01:42,Emergency,249,69.34405412152393,Wait Time,Neutral,Region-9,True
+P0860,2024-04-24,03:29,Radiology,124,14.479374138070154,Treatment Effectiveness,Neutral,Region-7,True
+P0071,2024-02-25,09:10,Oncology,47,32.20832510486865,Treatment Effectiveness,Positive,Region-5,False
+P0239,2024-06-28,12:43,Orthopedics,150,63.792227898712035,Treatment Effectiveness,Positive,Region-1,False
+P0669,2024-10-11,16:59,Cardiology,283,55.931067889638925,Treatment Effectiveness,Positive,Region-4,False
+P0215,2024-07-07,22:49,Emergency,214,21.299935778645043,Wait Time,Neutral,Region-6,True
+P0133,2024-02-28,09:44,Pediatrics,136,12.820548720619193,Treatment Effectiveness,Negative,Region-6,False
+P0936,2024-05-22,03:40,Cardiology,101,21.90380049893657,Cleanliness,Negative,Region-4,True
+P0572,2024-10-20,09:23,Orthopedics,7,66.25133021826157,Cleanliness,Negative,Region-4,False
+P0473,2024-04-25,19:14,Radiology,8,49.98666005361709,Cleanliness,Neutral,Region-9,False
+P0785,2024-08-07,07:08,Oncology,300,65.16097091212133,Staff Behavior,Negative,Region-1,False
+P0808,2024-10-14,15:09,Cardiology,272,33.9141056680861,Treatment Effectiveness,Positive,Region-4,True
+P0191,2024-11-14,14:47,Cardiology,65,46.87320706300857,Treatment Effectiveness,Neutral,Region-4,True
+P0097,2024-11-10,19:23,Cardiology,271,7.421297343879356,Treatment Effectiveness,Negative,Region-10,False
+P0432,2024-12-11,13:44,Radiology,8,36.546703107917175,Treatment Effectiveness,Positive,Region-7,True
+P0424,2024-11-25,17:58,Emergency,197,13.763768824114731,Cleanliness,Positive,Region-9,False
+P0468,2024-10-12,15:48,Cardiology,110,42.5667881711335,Treatment Effectiveness,Negative,Region-6,True
+P0730,2024-01-14,17:51,Radiology,166,64.49728929567414,Cleanliness,Negative,Region-3,False
+P0674,2024-11-07,21:52,Orthopedics,214,39.794904422810475,Treatment Effectiveness,Positive,Region-8,True
+P0985,2024-12-02,06:48,Oncology,190,28.90773675115936,Staff Behavior,Negative,Region-1,True
+P0099,2024-12-21,07:43,Emergency,59,23.965726204312556,Wait Time,Neutral,Region-2,False
+P0403,2024-05-16,19:55,Pediatrics,84,2.768760008367739,Staff Behavior,Positive,Region-8,False
+P0340,2024-01-15,02:33,Emergency,223,33.211332238557915,Wait Time,Positive,Region-2,True
+P0862,2024-04-02,14:33,Pediatrics,134,64.65984301713885,Cleanliness,Positive,Region-4,False
+P0249,2024-05-19,22:23,Pediatrics,138,64.60143841309228,Wait Time,Negative,Region-1,True
+P0191,2024-12-25,02:58,Cardiology,279,63.660939762610994,Wait Time,Neutral,Region-3,False
+P0449,2024-06-07,18:07,Pediatrics,221,7.4027559515524075,Cleanliness,Neutral,Region-4,False
+P0422,2024-06-22,01:53,Radiology,294,24.00930938953114,Wait Time,Positive,Region-3,True
+P0279,2024-06-28,17:57,Emergency,192,47.0489265502135,Staff Behavior,Negative,Region-2,False
+P0250,2024-01-04,16:12,Cardiology,146,51.514351938296265,Staff Behavior,Neutral,Region-3,True
+P0924,2024-04-02,18:34,Oncology,208,12.64357592168901,Cleanliness,Negative,Region-10,False
+P0444,2024-03-14,04:10,Orthopedics,109,53.061625516203335,Wait Time,Positive,Region-9,True
+P0862,2024-10-16,10:54,Pediatrics,216,7.474578075898515,Cleanliness,Neutral,Region-4,False
+P0551,2024-12-02,16:28,Orthopedics,287,51.142096399570164,Treatment Effectiveness,Negative,Region-4,False
+P0051,2024-07-24,03:43,Oncology,290,46.01914169467226,Treatment Effectiveness,Negative,Region-9,True
+P1000,2024-02-05,06:45,Radiology,252,7.056764626436147,Wait Time,Negative,Region-2,False
+P0837,2024-03-13,18:31,Radiology,96,51.21681743316504,Wait Time,Neutral,Region-7,True
+P0969,2024-11-20,02:57,Cardiology,194,52.60804234568572,Treatment Effectiveness,Negative,Region-8,False
+P0927,2024-01-16,16:28,Orthopedics,291,70.23859121895073,Cleanliness,Negative,Region-5,True
+P0849,2024-02-16,01:29,Emergency,289,44.45714994842206,Treatment Effectiveness,Neutral,Region-3,False
+P0167,2024-09-28,04:32,Oncology,252,12.35287655060129,Treatment Effectiveness,Negative,Region-4,True
+P0486,2024-04-20,13:29,Oncology,134,40.074557878249124,Staff Behavior,Negative,Region-4,True
+P0214,2024-07-11,18:03,Oncology,162,4.117331926125901,Staff Behavior,Neutral,Region-7,True
+P0402,2024-08-02,17:29,Orthopedics,300,13.132833657934864,Cleanliness,Positive,Region-3,False
+P0059,2024-08-20,21:51,Emergency,181,24.7987128730856,Cleanliness,Neutral,Region-10,True
+P0379,2024-06-23,09:46,Orthopedics,208,62.86268365253995,Wait Time,Neutral,Region-4,False
+P0986,2024-03-21,00:25,Cardiology,75,62.24974601459779,Cleanliness,Negative,Region-5,True
+P0266,2024-07-08,08:52,Orthopedics,65,12.510810842261582,Staff Behavior,Neutral,Region-5,False
+P0785,2024-06-08,00:47,Radiology,122,11.267123547938018,Cleanliness,Neutral,Region-10,True
+P0456,2024-06-15,06:37,Radiology,233,55.61013255682119,Staff Behavior,Positive,Region-8,True
+P0424,2024-10-17,02:02,Radiology,87,4.643044805454458,Staff Behavior,Negative,Region-4,False
+P0958,2024-11-01,13:22,Emergency,56,22.87241659295409,Wait Time,Positive,Region-5,True
+P0996,2024-02-13,22:04,Emergency,114,52.84148404428929,Staff Behavior,Neutral,Region-8,True
+P0556,2024-01-27,17:03,Pediatrics,265,69.22859406236063,Staff Behavior,Negative,Region-2,True
+P0719,2024-03-20,02:59,Radiology,210,21.503418158577027,Staff Behavior,Negative,Region-6,True
+P0155,2024-03-21,15:02,Pediatrics,178,13.829417872029031,Cleanliness,Negative,Region-7,False
+P0297,2024-11-12,09:26,Emergency,286,64.79647585259038,Wait Time,Negative,Region-7,True
+P0969,2024-01-26,05:49,Oncology,31,69.19080544562988,Treatment Effectiveness,Negative,Region-3,False
+P0580,2024-12-11,04:49,Radiology,87,1.250835800184182,Cleanliness,Neutral,Region-8,False
+P0543,2024-02-11,20:46,Pediatrics,204,55.343102305910584,Staff Behavior,Negative,Region-8,True
+P0748,2024-05-19,20:26,Pediatrics,7,1.8667513025077276,Staff Behavior,Negative,Region-7,True
+P0058,2024-08-14,11:57,Emergency,51,36.33156012545663,Wait Time,Negative,Region-9,True
+P0585,2024-12-04,12:28,Oncology,79,36.40359904310541,Cleanliness,Negative,Region-10,True
+P0503,2024-08-05,12:24,Oncology,246,58.32927402413106,Treatment Effectiveness,Positive,Region-7,False
+P0853,2024-09-05,02:43,Orthopedics,227,44.1668591027849,Cleanliness,Neutral,Region-3,False
+P0158,2024-11-06,21:55,Oncology,50,36.03614253468337,Staff Behavior,Negative,Region-8,True
+P0961,2024-08-14,17:08,Orthopedics,37,16.398042915830196,Treatment Effectiveness,Negative,Region-1,True
+P0081,2024-07-31,20:55,Emergency,139,47.82241411339902,Cleanliness,Neutral,Region-7,True
+P0186,2024-05-19,11:07,Pediatrics,118,33.21543235421737,Wait Time,Positive,Region-7,True
+P0596,2024-04-20,05:34,Oncology,194,32.37315066633931,Staff Behavior,Neutral,Region-2,True
+P0676,2024-09-19,12:33,Pediatrics,45,43.686376226002345,Treatment Effectiveness,Neutral,Region-5,True
+P0236,2024-02-28,04:46,Emergency,24,1.4666846496957107,Cleanliness,Negative,Region-10,True
+P0120,2024-06-25,07:53,Emergency,201,63.633918410996,Staff Behavior,Neutral,Region-9,False
+P0891,2024-08-08,00:48,Oncology,210,20.74601857366702,Treatment Effectiveness,Neutral,Region-3,True
+P0247,2024-02-26,00:19,Oncology,271,45.63311521400477,Cleanliness,Neutral,Region-9,True
+P0595,2024-05-25,14:43,Orthopedics,151,59.22861878270602,Staff Behavior,Neutral,Region-3,True
+P0620,2024-12-13,23:34,Emergency,34,15.742269668528696,Wait Time,Negative,Region-5,True
+P0420,2024-12-13,13:34,Emergency,94,14.123639103220313,Cleanliness,Neutral,Region-7,False
+P0584,2024-10-30,12:52,Pediatrics,258,4.909539598097341,Staff Behavior,Negative,Region-8,True
+P0523,2024-09-06,07:15,Pediatrics,229,25.780408155971724,Wait Time,Negative,Region-5,True
+P0935,2024-09-26,14:22,Orthopedics,10,11.321583551331452,Staff Behavior,Positive,Region-8,True
+P0205,2024-12-07,04:17,Orthopedics,108,3.3026785132047105,Cleanliness,Neutral,Region-5,False
+P0717,2024-06-06,06:59,Orthopedics,270,42.044582795344475,Treatment Effectiveness,Neutral,Region-7,False
+P0239,2024-01-24,23:48,Radiology,151,43.83326793603114,Wait Time,Negative,Region-9,True
+P0396,2024-04-22,03:02,Oncology,104,24.508887233937628,Treatment Effectiveness,Negative,Region-10,False
+P0672,2024-07-21,21:26,Oncology,22,7.226890597352584,Staff Behavior,Neutral,Region-8,False
+P0300,2024-11-02,19:49,Cardiology,266,8.731022846728123,Staff Behavior,Neutral,Region-2,False
+P0317,2024-01-29,00:15,Radiology,269,71.55519782495227,Treatment Effectiveness,Positive,Region-6,True
+P0752,2024-01-04,06:04,Cardiology,123,12.454801147568409,Staff Behavior,Neutral,Region-3,True
+P0073,2024-04-14,03:38,Oncology,91,21.19101868113408,Cleanliness,Positive,Region-8,True
+P0459,2024-06-03,01:28,Pediatrics,23,47.92564739359518,Staff Behavior,Neutral,Region-4,False
+P0999,2024-04-18,19:43,Cardiology,189,50.689123937806464,Cleanliness,Neutral,Region-3,True
+P0997,2024-03-11,22:55,Cardiology,127,41.63206377550094,Wait Time,Positive,Region-4,True
+P0074,2024-05-10,01:15,Orthopedics,5,40.914581020152326,Treatment Effectiveness,Negative,Region-1,True
+P0214,2024-05-28,23:02,Pediatrics,85,69.60682173318405,Wait Time,Neutral,Region-1,True
+P0266,2024-06-16,12:28,Emergency,49,54.202771440942634,Staff Behavior,Positive,Region-9,False
+P0934,2024-03-02,07:34,Cardiology,146,26.573393979184825,Cleanliness,Negative,Region-6,True
+P0881,2024-01-04,06:48,Radiology,209,3.544643026679501,Cleanliness,Positive,Region-8,False
+P0880,2024-09-11,01:08,Cardiology,185,55.56435079313746,Wait Time,Neutral,Region-7,True
+P0370,2024-08-08,16:18,Cardiology,207,23.920351409676886,Cleanliness,Neutral,Region-7,True
+P0158,2024-03-30,07:52,Pediatrics,212,64.72461411285917,Staff Behavior,Negative,Region-7,True
+P0834,2024-03-07,23:36,Radiology,107,59.2387967020596,Wait Time,Negative,Region-6,True
+P0704,2024-07-13,10:36,Orthopedics,270,54.849381136447136,Treatment Effectiveness,Positive,Region-7,True
+P0612,2024-09-29,19:49,Orthopedics,12,60.87498373600428,Cleanliness,Neutral,Region-8,False
+P0988,2024-12-26,21:52,Pediatrics,40,5.609736522966041,Wait Time,Positive,Region-5,False
+P0654,2024-04-27,10:15,Orthopedics,51,34.42799593920075,Treatment Effectiveness,Negative,Region-10,True
+P0008,2024-09-13,09:56,Radiology,286,9.66364933042213,Staff Behavior,Negative,Region-2,False
+P0818,2024-10-13,04:42,Radiology,150,62.017963815359145,Treatment Effectiveness,Neutral,Region-7,False
+P0300,2024-12-08,16:14,Pediatrics,291,24.37380541429478,Cleanliness,Neutral,Region-1,True
+P0664,2024-06-30,13:19,Pediatrics,183,30.376811558379835,Staff Behavior,Positive,Region-2,False
+P0939,2024-02-06,08:03,Radiology,182,15.899021218746112,Staff Behavior,Neutral,Region-7,True
+P0135,2024-07-22,17:37,Pediatrics,146,15.842619601307923,Staff Behavior,Positive,Region-10,False
+P0116,2024-01-22,23:58,Oncology,120,5.131105696860386,Staff Behavior,Negative,Region-3,True
+P0108,2024-08-11,05:40,Emergency,104,41.56706236161831,Cleanliness,Neutral,Region-4,True
+P0554,2024-01-10,21:27,Cardiology,237,70.53384614480645,Treatment Effectiveness,Negative,Region-7,True
+P0273,2024-08-23,17:31,Orthopedics,211,38.555210240859076,Treatment Effectiveness,Negative,Region-5,True
+P0605,2024-02-09,01:22,Cardiology,299,7.224551628083523,Staff Behavior,Neutral,Region-6,False
+P0718,2024-06-09,20:42,Cardiology,7,52.40926378886739,Cleanliness,Negative,Region-9,False
+P0204,2024-10-21,12:50,Oncology,138,43.93923949678472,Wait Time,Positive,Region-8,True
+P0635,2024-08-07,16:20,Cardiology,94,56.961123913718524,Staff Behavior,Positive,Region-6,False
+P0264,2024-10-20,22:26,Emergency,213,51.18320051871462,Cleanliness,Negative,Region-1,True
+P0489,2024-07-26,13:09,Pediatrics,264,31.320805961101996,Wait Time,Negative,Region-7,False
+P0906,2024-12-29,09:24,Emergency,59,61.193655859460584,Staff Behavior,Neutral,Region-7,True
+P0847,2024-11-23,05:48,Pediatrics,291,19.435862789323753,Cleanliness,Positive,Region-4,True
+P0093,2024-08-01,17:30,Cardiology,42,41.83513091986423,Staff Behavior,Neutral,Region-4,True
+P0424,2024-05-28,07:54,Pediatrics,262,45.250334412780305,Wait Time,Negative,Region-8,True
+P0277,2024-02-28,07:19,Oncology,155,66.82448113865877,Staff Behavior,Positive,Region-1,False
+P0004,2024-07-26,22:09,Oncology,179,44.614588640235645,Cleanliness,Neutral,Region-6,False
+P0772,2024-01-11,14:58,Radiology,64,36.24418170674973,Treatment Effectiveness,Positive,Region-1,True
+P0638,2024-06-15,01:35,Orthopedics,267,52.77211682395555,Wait Time,Negative,Region-3,False
+P0262,2024-03-28,13:26,Radiology,136,36.33961911475521,Staff Behavior,Neutral,Region-5,True
+P0742,2024-11-12,17:33,Emergency,280,58.36660555581311,Cleanliness,Positive,Region-10,False
+P0552,2024-08-23,04:24,Emergency,299,63.74012136658884,Wait Time,Neutral,Region-8,False
+P0428,2024-12-19,07:16,Emergency,133,17.523236403686415,Wait Time,Neutral,Region-3,False
+P0010,2024-07-04,06:21,Cardiology,231,21.624652553553087,Cleanliness,Positive,Region-5,True
+P0076,2024-02-15,20:05,Radiology,198,14.742436029853259,Treatment Effectiveness,Neutral,Region-4,False
+P0884,2024-08-11,14:54,Cardiology,293,9.392706548445387,Cleanliness,Positive,Region-10,False
+P0904,2024-02-24,11:05,Cardiology,252,34.006880040524244,Wait Time,Positive,Region-10,False
+P0546,2024-05-04,17:46,Cardiology,129,57.56801127920096,Staff Behavior,Positive,Region-3,False
+P0835,2024-08-11,06:03,Orthopedics,178,53.36025466928597,Staff Behavior,Negative,Region-1,True
+P0583,2024-10-28,08:24,Pediatrics,239,15.720489381023263,Treatment Effectiveness,Neutral,Region-2,True
+P0149,2024-07-24,21:38,Radiology,240,44.68686758673249,Treatment Effectiveness,Neutral,Region-2,True
+P0128,2024-09-25,19:02,Cardiology,19,30.438878568983974,Staff Behavior,Negative,Region-7,True
+P0309,2024-02-10,02:12,Cardiology,251,4.229945463681593,Cleanliness,Negative,Region-7,False
+P0899,2024-07-21,18:46,Orthopedics,64,25.825153155546634,Staff Behavior,Neutral,Region-10,True
+P0797,2024-06-07,21:35,Cardiology,137,58.229089768698444,Cleanliness,Neutral,Region-2,False
+P0861,2024-06-22,06:30,Oncology,39,16.07599328310866,Staff Behavior,Negative,Region-9,False
+P0899,2024-04-23,06:55,Cardiology,200,46.48390007230853,Wait Time,Negative,Region-4,False
+P0211,2024-06-19,10:19,Orthopedics,117,49.991211369600116,Wait Time,Negative,Region-7,True
+P0250,2024-03-27,00:13,Radiology,122,19.063644074677526,Staff Behavior,Negative,Region-3,True
+P0103,2024-02-09,06:47,Pediatrics,166,5.816360502331338,Treatment Effectiveness,Neutral,Region-7,False
+P0781,2024-09-18,03:47,Emergency,216,22.320163614861393,Staff Behavior,Positive,Region-5,False
+P0885,2024-11-20,15:58,Emergency,185,40.049545556296344,Treatment Effectiveness,Neutral,Region-5,True
+P0407,2024-02-28,07:44,Emergency,269,55.45931466993183,Wait Time,Neutral,Region-9,True
+P0621,2024-09-28,19:45,Orthopedics,279,9.082410169350656,Wait Time,Neutral,Region-9,False
+P0155,2024-09-18,06:25,Pediatrics,9,24.66308522400761,Cleanliness,Negative,Region-7,True
+P0930,2024-04-09,07:35,Radiology,139,29.119502152742154,Treatment Effectiveness,Neutral,Region-10,True
+P0865,2024-06-27,10:49,Radiology,132,41.393429396566205,Treatment Effectiveness,Neutral,Region-5,False
+P0977,2024-06-28,09:24,Radiology,152,69.1680105929623,Cleanliness,Negative,Region-7,False
+P0811,2024-11-26,14:34,Radiology,52,60.07503666333604,Cleanliness,Neutral,Region-2,False
+P0882,2024-03-16,20:22,Oncology,209,14.775106172759473,Treatment Effectiveness,Positive,Region-2,False
+P0025,2024-04-30,09:16,Oncology,180,60.201596312176555,Treatment Effectiveness,Positive,Region-10,False
+P0737,2024-02-22,11:32,Orthopedics,43,66.48186333287939,Cleanliness,Neutral,Region-6,False
+P0333,2024-03-15,15:29,Orthopedics,288,35.016687408444106,Cleanliness,Negative,Region-3,False
+P0931,2024-05-11,03:51,Pediatrics,96,34.689532195069354,Treatment Effectiveness,Positive,Region-5,False
+P0803,2024-04-11,23:30,Cardiology,248,3.5246358129479556,Staff Behavior,Negative,Region-4,True
+P0865,2024-03-29,10:58,Emergency,165,10.638526612417262,Treatment Effectiveness,Positive,Region-7,True
+P0811,2024-11-04,06:23,Radiology,186,12.032426495337742,Wait Time,Neutral,Region-5,False
+P0267,2024-03-19,10:26,Pediatrics,116,33.70387348038063,Wait Time,Positive,Region-1,False
+P0788,2024-12-01,01:36,Radiology,298,62.430928886865786,Wait Time,Neutral,Region-3,False
+P0109,2024-02-08,07:47,Oncology,142,64.61093070203651,Staff Behavior,Positive,Region-8,False
+P0873,2024-03-31,04:01,Orthopedics,98,33.835375351184766,Cleanliness,Positive,Region-1,True
+P0859,2024-11-17,08:35,Pediatrics,102,58.80583026551207,Wait Time,Neutral,Region-2,False
+P0223,2024-09-09,18:37,Pediatrics,260,66.87308835032218,Staff Behavior,Positive,Region-2,True
+P0817,2024-08-25,23:26,Radiology,107,4.977582248244486,Treatment Effectiveness,Positive,Region-7,False
+P0461,2024-10-15,09:09,Orthopedics,125,37.996198931734305,Cleanliness,Positive,Region-9,True
+P0306,2024-10-23,06:21,Orthopedics,128,41.11092751080136,Treatment Effectiveness,Negative,Region-7,True
+P0796,2024-08-17,07:24,Cardiology,140,49.15203135014103,Wait Time,Neutral,Region-5,True
+P0228,2024-12-14,18:53,Radiology,110,40.41758178955218,Staff Behavior,Negative,Region-7,False
+P0024,2024-10-16,07:31,Radiology,122,2.329008562763293,Cleanliness,Positive,Region-3,True
+P0194,2024-11-25,17:41,Oncology,108,41.99523259453493,Wait Time,Positive,Region-3,True
+P0329,2024-11-21,21:21,Oncology,132,24.552069781474827,Wait Time,Positive,Region-6,True
+P0865,2024-11-15,08:48,Oncology,187,66.04923802651533,Cleanliness,Negative,Region-3,False
+P0967,2024-06-14,15:46,Emergency,84,57.500578776786355,Cleanliness,Positive,Region-3,False
+P0280,2024-11-17,20:47,Orthopedics,59,5.701125933546894,Staff Behavior,Neutral,Region-4,True
+P0642,2024-06-10,15:29,Orthopedics,66,11.600648335461774,Wait Time,Positive,Region-8,True
+P0400,2024-03-18,05:46,Orthopedics,45,60.69247990260492,Treatment Effectiveness,Positive,Region-3,True
+P0982,2024-08-13,11:10,Oncology,257,25.079821674800904,Staff Behavior,Neutral,Region-9,False
+P0537,2024-02-04,04:46,Oncology,8,27.64209521176122,Treatment Effectiveness,Positive,Region-2,False
+P0940,2024-08-28,17:31,Radiology,282,38.933395510992476,Wait Time,Neutral,Region-8,True
+P0116,2024-08-14,05:58,Pediatrics,26,12.783833634404065,Wait Time,Neutral,Region-10,False
+P0971,2024-11-19,17:41,Cardiology,251,44.00392531349663,Staff Behavior,Neutral,Region-4,False
+P0179,2024-06-04,01:33,Cardiology,195,14.303902620513904,Staff Behavior,Negative,Region-3,True
+P0963,2024-05-20,01:53,Radiology,166,9.295969310299691,Wait Time,Negative,Region-4,False
+P0266,2024-10-29,02:52,Radiology,257,56.546419533784345,Wait Time,Positive,Region-1,True
+P0109,2024-01-29,21:03,Radiology,299,22.88798078204616,Cleanliness,Positive,Region-3,True
+P0435,2024-06-29,00:26,Oncology,145,61.905182907949815,Cleanliness,Neutral,Region-4,True
+P0729,2024-09-16,04:53,Orthopedics,256,51.39864105169179,Staff Behavior,Negative,Region-5,True
+P0314,2024-02-07,20:14,Oncology,98,20.276316578572533,Treatment Effectiveness,Negative,Region-7,True
+P0607,2024-06-07,02:45,Radiology,266,7.16264273442972,Wait Time,Positive,Region-8,True
+P0512,2024-08-24,04:00,Oncology,148,63.270460016076264,Staff Behavior,Negative,Region-10,True
+P0386,2024-08-19,06:32,Radiology,208,27.382433958987512,Wait Time,Positive,Region-2,False
+P0577,2024-01-20,14:23,Emergency,118,59.89148029313683,Wait Time,Neutral,Region-3,True
+P0255,2024-01-30,01:39,Orthopedics,300,22.486638056829054,Wait Time,Neutral,Region-2,False
+P0709,2024-07-07,20:42,Pediatrics,70,38.28212979782074,Cleanliness,Neutral,Region-5,False
+P0002,2024-05-26,19:58,Cardiology,32,13.425904951754362,Cleanliness,Negative,Region-2,True
+P0926,2024-02-09,15:42,Radiology,274,27.56931403823959,Wait Time,Neutral,Region-7,True
+P0539,2024-11-26,15:01,Emergency,221,3.6550475599103955,Cleanliness,Positive,Region-2,True
+P0720,2024-02-16,00:34,Emergency,249,15.348987369597875,Wait Time,Negative,Region-5,False
+P0742,2024-11-10,17:26,Cardiology,281,7.574892442732754,Wait Time,Neutral,Region-2,True
+P0671,2024-10-31,00:01,Radiology,21,36.92562317677117,Cleanliness,Positive,Region-6,True
+P0365,2024-09-16,16:46,Orthopedics,262,57.730794767060026,Staff Behavior,Positive,Region-1,True
+P0070,2024-07-15,08:34,Cardiology,182,65.25186184424054,Cleanliness,Positive,Region-10,False
+P0665,2024-08-24,09:01,Pediatrics,206,11.939522180743728,Staff Behavior,Positive,Region-4,True
+P0331,2024-10-24,16:52,Oncology,94,25.148229200975674,Treatment Effectiveness,Neutral,Region-8,True
+P0314,2024-10-10,22:43,Orthopedics,239,35.326507948363684,Treatment Effectiveness,Negative,Region-8,True
+P0849,2024-01-22,13:51,Pediatrics,66,63.04541566355217,Cleanliness,Positive,Region-2,True
+P0720,2024-08-18,05:06,Cardiology,270,23.035468332937786,Cleanliness,Neutral,Region-1,True
+P0301,2024-10-19,03:33,Pediatrics,240,24.240994559034313,Wait Time,Neutral,Region-1,False
+P0310,2024-11-29,04:15,Pediatrics,166,55.633179201913826,Treatment Effectiveness,Positive,Region-5,True
+P0409,2024-04-06,06:39,Oncology,9,7.975861112563563,Treatment Effectiveness,Negative,Region-1,True
+P0403,2024-06-13,16:16,Cardiology,11,70.74141664504775,Cleanliness,Neutral,Region-10,False
+P0296,2024-11-05,11:17,Orthopedics,112,37.64641003345643,Cleanliness,Negative,Region-1,True
+P0128,2024-08-31,12:05,Cardiology,199,71.48314443545728,Treatment Effectiveness,Negative,Region-2,False
+P0421,2024-09-13,11:25,Radiology,56,15.568284812901279,Wait Time,Neutral,Region-4,False
+P0941,2024-03-18,14:36,Radiology,171,3.5952301220235,Treatment Effectiveness,Negative,Region-9,False
+P0678,2024-02-01,07:44,Oncology,190,28.518763316207334,Wait Time,Neutral,Region-1,False
+P0903,2024-08-18,07:19,Oncology,137,62.40152437304322,Cleanliness,Positive,Region-7,False
+P0616,2024-02-22,21:52,Radiology,100,9.224355081407726,Treatment Effectiveness,Neutral,Region-10,True
+P0301,2024-06-24,02:41,Cardiology,285,23.07967356738412,Treatment Effectiveness,Neutral,Region-9,False
+P0548,2024-12-31,20:48,Pediatrics,139,4.126127420222126,Treatment Effectiveness,Negative,Region-5,True
+P0001,2024-02-13,01:05,Pediatrics,126,61.216805720287695,Staff Behavior,Positive,Region-8,True
+P0287,2024-09-15,12:24,Oncology,142,62.90313160555354,Cleanliness,Positive,Region-8,True
+P0430,2024-11-26,12:35,Orthopedics,246,24.663572491319393,Wait Time,Negative,Region-6,True
+P0580,2024-03-29,15:03,Orthopedics,180,64.13219719585719,Cleanliness,Negative,Region-10,True
+P0655,2024-01-21,20:00,Orthopedics,192,8.320300891704981,Wait Time,Neutral,Region-7,True
+P0465,2024-05-06,22:10,Oncology,99,55.39879312953266,Treatment Effectiveness,Positive,Region-6,True
+P0443,2024-12-28,02:31,Radiology,260,53.934385487333955,Treatment Effectiveness,Neutral,Region-6,False
+P0214,2024-08-12,13:41,Radiology,222,2.5960985422637153,Staff Behavior,Positive,Region-6,False
+P0474,2024-08-12,10:36,Orthopedics,112,54.85306126745154,Cleanliness,Neutral,Region-6,False
+P0902,2024-09-25,03:57,Cardiology,219,46.35841049508472,Staff Behavior,Neutral,Region-4,False
+P0797,2024-09-24,16:58,Orthopedics,195,15.899043767023878,Treatment Effectiveness,Negative,Region-6,False
+P0170,2024-11-08,01:14,Cardiology,191,15.239441370000991,Staff Behavior,Neutral,Region-7,True
+P0085,2024-03-22,06:57,Oncology,210,21.346283775881805,Staff Behavior,Positive,Region-7,False
+P0516,2024-07-05,22:56,Cardiology,148,38.791582209316154,Cleanliness,Positive,Region-10,True
+P0633,2024-07-09,18:30,Emergency,235,55.86788391559727,Staff Behavior,Neutral,Region-1,False
+P0336,2024-05-24,08:02,Emergency,97,48.649806978949975,Staff Behavior,Neutral,Region-6,True
+P0819,2024-07-17,02:43,Oncology,297,20.35844867379793,Staff Behavior,Positive,Region-6,False
+P0752,2024-07-28,08:57,Oncology,72,12.182217049808937,Cleanliness,Negative,Region-2,True
+P0673,2024-06-22,17:36,Oncology,299,9.126687966907218,Wait Time,Neutral,Region-1,True
+P0225,2024-12-13,21:02,Cardiology,122,69.03916187010029,Staff Behavior,Positive,Region-8,False
+P0200,2024-11-02,05:59,Radiology,56,40.73342921211054,Staff Behavior,Positive,Region-7,True
+P0025,2024-01-27,10:01,Emergency,143,8.268645790718448,Staff Behavior,Negative,Region-3,True
+P0245,2024-11-19,06:37,Pediatrics,125,39.519538684730136,Cleanliness,Positive,Region-1,False
+P0476,2024-11-27,04:48,Oncology,289,40.00496164420566,Cleanliness,Negative,Region-10,True
+P0850,2024-06-20,22:52,Cardiology,226,20.244699158150954,Treatment Effectiveness,Negative,Region-2,True
+P0073,2024-02-03,12:59,Orthopedics,200,67.9727251306855,Wait Time,Positive,Region-9,False
+P0415,2024-06-17,02:19,Emergency,105,58.08420153045659,Staff Behavior,Negative,Region-5,False
+P0630,2024-02-18,05:36,Orthopedics,79,41.75988892750874,Treatment Effectiveness,Positive,Region-4,False
+P0195,2024-10-12,07:36,Cardiology,81,13.160523258583574,Staff Behavior,Negative,Region-6,False
+P0697,2024-12-13,12:43,Orthopedics,247,23.107806738776446,Treatment Effectiveness,Positive,Region-8,False
+P0495,2024-07-16,17:21,Orthopedics,9,64.34926043488429,Treatment Effectiveness,Positive,Region-10,True
+P0244,2024-05-25,12:48,Orthopedics,95,39.38097424431877,Treatment Effectiveness,Positive,Region-8,True
+P0657,2024-05-09,23:08,Emergency,220,4.601559044683379,Treatment Effectiveness,Negative,Region-9,False
+P0006,2024-12-02,22:46,Orthopedics,260,3.0584807203875863,Staff Behavior,Positive,Region-7,False
+P0751,2024-11-04,02:32,Radiology,73,65.13376094371237,Wait Time,Negative,Region-4,True
+P0771,2024-03-17,23:22,Emergency,269,4.5823767522037855,Cleanliness,Negative,Region-1,False
+P0107,2024-06-19,01:06,Radiology,278,28.23557439312183,Cleanliness,Positive,Region-6,True
+P0426,2024-02-11,13:14,Orthopedics,166,7.114490213089192,Staff Behavior,Positive,Region-1,True
+P0176,2024-10-25,02:21,Radiology,254,28.826090005843284,Cleanliness,Neutral,Region-6,True
+P0958,2024-12-05,19:49,Emergency,158,51.032109151218954,Cleanliness,Positive,Region-1,False
+P0518,2024-03-13,19:38,Cardiology,133,64.28058851574131,Wait Time,Neutral,Region-6,False
+P0051,2024-06-28,12:49,Radiology,292,45.69241898036288,Staff Behavior,Neutral,Region-8,True
+P0250,2024-06-07,10:01,Pediatrics,295,49.9988676805418,Cleanliness,Negative,Region-4,True
+P0849,2024-12-01,20:17,Oncology,29,32.65437485097638,Treatment Effectiveness,Positive,Region-10,False
+P0457,2024-12-23,14:31,Emergency,208,26.249326223010467,Cleanliness,Positive,Region-8,True
+P0802,2024-12-05,07:22,Pediatrics,55,24.59557878999695,Treatment Effectiveness,Neutral,Region-7,True
+P0668,2024-07-19,17:24,Pediatrics,88,15.068446819601995,Wait Time,Positive,Region-10,True
+P0988,2024-03-07,13:11,Emergency,35,54.846580785749765,Staff Behavior,Positive,Region-2,True
+P0596,2024-10-31,21:37,Cardiology,115,58.460287443380274,Wait Time,Neutral,Region-6,True
+P0951,2024-12-28,21:24,Cardiology,135,6.576738127555054,Wait Time,Negative,Region-7,False
+P0892,2024-02-13,02:49,Cardiology,248,66.51766338689437,Treatment Effectiveness,Positive,Region-8,True
+P0613,2024-06-07,19:18,Cardiology,54,55.2744081472186,Staff Behavior,Neutral,Region-2,True
+P0720,2024-10-13,07:45,Emergency,235,41.31304046032924,Wait Time,Neutral,Region-7,True
+P0505,2024-07-11,02:05,Oncology,176,7.597048377338215,Staff Behavior,Positive,Region-5,True
+P0831,2024-11-25,08:09,Pediatrics,138,57.966885367765435,Staff Behavior,Negative,Region-10,False
+P0548,2024-06-17,12:45,Orthopedics,189,50.60055804437093,Treatment Effectiveness,Neutral,Region-4,True
+P0898,2024-03-06,20:09,Orthopedics,189,7.905672776300281,Treatment Effectiveness,Positive,Region-3,True
+P0744,2024-12-09,23:24,Pediatrics,291,23.037809599920628,Cleanliness,Neutral,Region-9,False
+P0475,2024-12-25,10:23,Oncology,290,46.753721307406785,Treatment Effectiveness,Neutral,Region-10,True
+P0260,2024-12-16,03:05,Emergency,136,55.42103816601005,Treatment Effectiveness,Negative,Region-9,True
+P0248,2024-09-26,00:19,Emergency,181,34.40875710882462,Treatment Effectiveness,Neutral,Region-1,False
+P0638,2024-02-17,14:23,Pediatrics,15,68.26882718421076,Staff Behavior,Negative,Region-3,True
+P0766,2024-11-26,08:06,Radiology,215,11.204239548279602,Cleanliness,Positive,Region-8,False
+P0522,2024-12-09,04:05,Orthopedics,67,64.59476117642885,Treatment Effectiveness,Neutral,Region-2,True
+P0627,2024-08-04,05:27,Radiology,184,19.321746362843914,Treatment Effectiveness,Positive,Region-5,False
+P0275,2024-09-17,14:35,Emergency,106,26.804903528373394,Cleanliness,Positive,Region-9,False
+P0078,2024-07-04,17:32,Oncology,300,14.018068087642176,Wait Time,Negative,Region-8,False
+P0286,2024-01-10,13:06,Radiology,299,66.12577394565808,Staff Behavior,Negative,Region-3,True
+P0272,2024-07-04,00:05,Emergency,280,24.453284896934683,Wait Time,Neutral,Region-8,False
+P0320,2024-06-07,11:35,Emergency,94,62.116203096886544,Staff Behavior,Positive,Region-2,False
+P0541,2024-04-02,02:38,Orthopedics,150,24.058037289851136,Wait Time,Negative,Region-8,False
+P0139,2024-04-19,19:50,Cardiology,186,35.612978012478,Treatment Effectiveness,Negative,Region-9,True
+P0232,2024-06-23,10:55,Oncology,171,5.640929115926769,Wait Time,Neutral,Region-4,True
+P0694,2024-09-05,12:00,Oncology,266,9.014981068315342,Cleanliness,Neutral,Region-4,False
+P0707,2024-04-08,09:26,Cardiology,254,34.98429809323072,Treatment Effectiveness,Positive,Region-4,False
+P0065,2024-04-25,12:49,Pediatrics,233,61.049404636970976,Staff Behavior,Positive,Region-3,True
+P0408,2024-03-11,02:46,Emergency,45,21.04027319344764,Wait Time,Negative,Region-2,True
+P0543,2024-03-20,17:57,Orthopedics,200,25.75169639971298,Wait Time,Positive,Region-2,True
+P0416,2024-02-09,07:36,Cardiology,151,41.802156322039465,Cleanliness,Positive,Region-7,False
+P0207,2024-05-31,16:10,Pediatrics,242,37.06442628285428,Staff Behavior,Negative,Region-1,False
+P0421,2024-02-21,21:24,Emergency,79,29.803704738961567,Staff Behavior,Negative,Region-3,True
+P0905,2024-09-16,05:08,Orthopedics,90,51.713389117790776,Cleanliness,Negative,Region-6,False
+P0585,2024-10-03,08:19,Pediatrics,177,8.595671930437911,Treatment Effectiveness,Positive,Region-7,True
+P0696,2024-09-26,08:31,Emergency,220,40.486640066735816,Cleanliness,Negative,Region-5,True
+P0857,2024-01-20,04:04,Radiology,297,6.035603286792313,Cleanliness,Positive,Region-4,False
+P0766,2024-12-04,05:27,Orthopedics,212,22.450386984832097,Staff Behavior,Positive,Region-5,True
+P0381,2024-06-21,08:26,Radiology,41,33.729214545026196,Staff Behavior,Neutral,Region-8,True
+P0006,2024-11-12,09:30,Emergency,45,42.92805292721372,Staff Behavior,Positive,Region-2,True
+P0352,2024-03-08,02:23,Oncology,87,17.938845717028627,Staff Behavior,Positive,Region-3,True
+P0754,2024-11-01,08:15,Emergency,180,18.302065334501716,Cleanliness,Negative,Region-9,True
+P0854,2024-07-11,23:40,Pediatrics,121,12.290440560477318,Cleanliness,Negative,Region-8,True
+P0954,2024-03-19,15:38,Pediatrics,165,35.24860058166808,Treatment Effectiveness,Negative,Region-2,False
+P0420,2024-03-24,19:12,Cardiology,167,5.690255360236057,Cleanliness,Negative,Region-6,False
+P0748,2024-04-02,14:06,Oncology,154,15.784908352702965,Wait Time,Negative,Region-4,True
+P0547,2024-12-20,04:19,Pediatrics,141,50.27825010537269,Treatment Effectiveness,Positive,Region-10,False
+P0604,2024-11-15,00:25,Oncology,207,31.61154333268323,Treatment Effectiveness,Neutral,Region-10,False
+P0221,2024-03-25,10:53,Oncology,143,70.59457106076265,Treatment Effectiveness,Negative,Region-2,False
+P0220,2024-08-12,19:24,Emergency,232,41.27199479118139,Wait Time,Negative,Region-6,False
+P0436,2024-01-23,10:28,Emergency,190,25.29625925914502,Staff Behavior,Negative,Region-7,True
+P0030,2024-07-29,10:27,Orthopedics,271,50.283454133324,Treatment Effectiveness,Neutral,Region-7,False
+P0337,2024-07-05,20:38,Emergency,235,13.289067380469064,Staff Behavior,Negative,Region-9,True
+P0680,2024-12-12,04:19,Emergency,216,48.54196892328934,Wait Time,Negative,Region-7,True
+P0405,2024-05-01,10:38,Cardiology,90,53.4950601912386,Wait Time,Positive,Region-4,True
+P0166,2024-08-15,22:12,Emergency,99,51.54552633142,Cleanliness,Neutral,Region-4,True
+P0468,2024-11-08,15:20,Radiology,16,60.40912176333928,Treatment Effectiveness,Positive,Region-5,False
+P0128,2024-05-25,05:25,Pediatrics,69,9.116923094120489,Treatment Effectiveness,Positive,Region-2,True
+P0623,2024-08-17,10:18,Radiology,125,43.32136004318669,Wait Time,Negative,Region-5,True
+P0027,2024-04-29,23:44,Pediatrics,133,24.101844693803987,Staff Behavior,Positive,Region-2,True
+P0395,2024-09-30,20:31,Emergency,45,7.933427552607927,Staff Behavior,Negative,Region-2,False
+P0565,2024-05-02,18:50,Cardiology,112,32.61035249761011,Staff Behavior,Positive,Region-2,True
+P0028,2024-06-07,07:20,Emergency,90,22.870536371080014,Treatment Effectiveness,Negative,Region-6,False
+P0643,2024-08-28,12:17,Oncology,208,29.811352498398286,Cleanliness,Neutral,Region-10,True
+P0136,2024-04-09,12:23,Oncology,57,43.47640189320496,Staff Behavior,Positive,Region-4,False
+P0462,2024-07-07,03:59,Pediatrics,53,49.671116417636995,Cleanliness,Positive,Region-2,False
+P0051,2024-12-13,18:12,Cardiology,37,43.344784466664336,Cleanliness,Positive,Region-10,True
+P0380,2024-10-19,18:34,Orthopedics,247,59.21046674179048,Staff Behavior,Neutral,Region-6,False
+P0212,2024-08-13,05:43,Oncology,285,24.245985247902233,Cleanliness,Negative,Region-3,True
+P0327,2024-08-24,17:01,Oncology,32,46.794227196810375,Wait Time,Neutral,Region-6,True
+P0762,2024-05-24,23:29,Radiology,18,5.365237730948949,Wait Time,Neutral,Region-7,False
+P0380,2024-07-14,22:13,Pediatrics,208,16.45043591416914,Staff Behavior,Positive,Region-10,False
+P0753,2024-09-14,14:51,Cardiology,273,10.863088361885907,Cleanliness,Negative,Region-1,False
+P0832,2024-09-27,09:53,Oncology,47,42.23452030220014,Staff Behavior,Neutral,Region-5,True
+P0253,2024-08-02,22:04,Pediatrics,58,54.604184293489375,Cleanliness,Neutral,Region-1,True
+P0082,2024-03-23,13:43,Pediatrics,139,58.49859511862015,Treatment Effectiveness,Negative,Region-10,True
+P0020,2024-04-12,15:08,Orthopedics,84,54.752517934273925,Staff Behavior,Negative,Region-9,False
+P0540,2024-11-05,20:19,Cardiology,48,47.92257895763491,Wait Time,Neutral,Region-4,False
+P1000,2024-03-11,07:16,Cardiology,204,33.16118383943411,Cleanliness,Positive,Region-7,False
+P0350,2024-05-08,21:09,Emergency,163,21.69673099881983,Wait Time,Negative,Region-7,False
+P0651,2024-01-27,22:27,Oncology,122,44.705623805769754,Staff Behavior,Neutral,Region-6,False
+P0782,2024-11-24,12:04,Orthopedics,131,32.74834357121832,Treatment Effectiveness,Neutral,Region-6,True
+P0652,2024-09-03,14:38,Pediatrics,150,15.601979415026989,Cleanliness,Neutral,Region-3,True
+P0755,2024-07-09,15:37,Cardiology,231,63.29720003514318,Treatment Effectiveness,Negative,Region-9,False
+P0950,2024-10-10,12:34,Radiology,69,22.281208734882057,Cleanliness,Negative,Region-10,True
+P0200,2024-02-22,16:59,Emergency,72,57.39861284075306,Staff Behavior,Negative,Region-10,False
+P0021,2024-12-30,22:26,Emergency,274,49.24868385957971,Staff Behavior,Positive,Region-4,False
+P0153,2024-09-21,17:02,Emergency,92,66.21361520123976,Treatment Effectiveness,Neutral,Region-2,False
+P0127,2024-03-04,11:44,Oncology,19,67.50403030116573,Staff Behavior,Positive,Region-7,False
+P0670,2024-05-25,17:38,Cardiology,22,51.96317675533295,Wait Time,Positive,Region-1,True
+P0564,2024-02-12,20:58,Orthopedics,187,65.97337193371942,Wait Time,Negative,Region-9,False
+P0218,2024-03-23,02:06,Pediatrics,171,71.31053722157631,Wait Time,Negative,Region-8,False
+P0700,2024-05-19,07:42,Emergency,248,42.373615425649774,Staff Behavior,Negative,Region-6,False
+P0767,2024-08-18,21:22,Pediatrics,244,44.41584368821931,Wait Time,Negative,Region-3,False
+P0168,2024-09-19,05:41,Orthopedics,281,37.240095434323074,Cleanliness,Positive,Region-5,True
+P0608,2024-03-16,19:02,Oncology,144,61.18220891845564,Treatment Effectiveness,Negative,Region-4,False
+P0748,2024-08-11,18:41,Cardiology,285,61.52786774104171,Wait Time,Neutral,Region-8,False
+P0115,2024-02-16,21:41,Orthopedics,232,5.431149655690971,Wait Time,Negative,Region-8,False
+P0820,2024-04-23,12:48,Radiology,74,64.97637435027096,Cleanliness,Positive,Region-3,True
+P0965,2024-08-18,10:50,Emergency,281,69.72086568006902,Wait Time,Negative,Region-10,True
+P0109,2024-06-27,13:06,Pediatrics,95,1.059875301555861,Cleanliness,Negative,Region-5,True
+P0026,2024-01-14,00:06,Orthopedics,238,40.76214830781134,Staff Behavior,Positive,Region-3,True
+P0312,2024-07-31,08:14,Orthopedics,293,70.48743231226779,Cleanliness,Neutral,Region-1,True
+P0678,2024-01-28,16:47,Cardiology,227,8.788580500696574,Staff Behavior,Negative,Region-10,True
+P0959,2024-07-21,16:35,Pediatrics,273,21.03685649084489,Wait Time,Neutral,Region-6,False
+P0397,2024-09-14,18:44,Cardiology,278,3.214116690323668,Staff Behavior,Positive,Region-5,False
+P0716,2024-07-10,18:14,Emergency,163,31.65180057926292,Wait Time,Negative,Region-9,True
+P0076,2024-04-30,14:23,Orthopedics,182,42.90163509542533,Staff Behavior,Neutral,Region-2,False
+P0691,2024-07-16,12:29,Orthopedics,251,45.390215542815916,Cleanliness,Positive,Region-5,True
+P0628,2024-02-11,21:37,Emergency,281,51.53592927141534,Staff Behavior,Positive,Region-10,True
+P0102,2024-07-10,22:32,Emergency,121,29.828318469905238,Wait Time,Neutral,Region-8,False
+P0773,2024-04-24,04:22,Oncology,50,31.89849343674953,Staff Behavior,Positive,Region-4,False
+P0851,2024-01-15,00:30,Radiology,231,15.996341303263724,Cleanliness,Positive,Region-8,True
+P0601,2024-06-12,03:18,Orthopedics,162,13.312117544679866,Wait Time,Negative,Region-5,False
+P0122,2024-02-20,13:58,Orthopedics,192,10.873889463872501,Staff Behavior,Negative,Region-7,False
+P0984,2024-12-31,02:07,Radiology,216,40.434932092623775,Treatment Effectiveness,Neutral,Region-1,False
+P0783,2024-11-28,23:09,Pediatrics,138,60.87626462160218,Cleanliness,Positive,Region-6,False
+P0348,2024-06-20,11:19,Cardiology,84,26.580440093855188,Wait Time,Neutral,Region-3,True
+P0429,2024-03-15,10:29,Cardiology,160,30.623720131464133,Staff Behavior,Negative,Region-4,True
+P0371,2024-03-11,06:33,Emergency,10,21.481431892658605,Treatment Effectiveness,Positive,Region-4,True
+P0506,2024-01-20,15:22,Cardiology,5,62.964234103073856,Wait Time,Negative,Region-1,True
+P0342,2024-05-26,15:06,Cardiology,272,9.913989898068449,Cleanliness,Negative,Region-3,False
+P0850,2024-08-29,14:46,Orthopedics,74,1.8237954236117409,Treatment Effectiveness,Negative,Region-8,False
+P0823,2024-12-22,22:28,Pediatrics,181,47.03563623216192,Wait Time,Negative,Region-7,True
+P0106,2024-03-12,10:04,Cardiology,151,11.223707938306667,Treatment Effectiveness,Positive,Region-5,False
+P0961,2024-12-27,09:02,Cardiology,245,63.82709645148958,Wait Time,Negative,Region-3,False
+P0636,2024-08-28,22:07,Orthopedics,278,47.71279547369624,Staff Behavior,Positive,Region-1,True
+P0829,2024-08-17,00:54,Radiology,9,70.22322692204604,Staff Behavior,Negative,Region-9,False
+P0708,2024-11-11,10:41,Emergency,256,10.64007793375182,Cleanliness,Negative,Region-7,False
+P0436,2024-01-03,03:43,Pediatrics,249,10.742639046901804,Treatment Effectiveness,Neutral,Region-6,False
+P0734,2024-02-10,05:59,Orthopedics,158,58.22185463850004,Cleanliness,Negative,Region-7,True
+P0966,2024-01-10,23:15,Orthopedics,9,62.07084610594834,Treatment Effectiveness,Negative,Region-8,False
+P0271,2024-05-11,16:11,Emergency,225,64.44435530911325,Cleanliness,Positive,Region-6,True
+P0809,2024-04-20,17:10,Orthopedics,154,50.37272688682746,Cleanliness,Neutral,Region-7,False
+P0539,2024-03-17,10:35,Cardiology,123,67.05208188463,Cleanliness,Negative,Region-7,False
+P0484,2024-10-07,13:29,Oncology,8,45.25064219359765,Staff Behavior,Neutral,Region-2,True
+P0436,2024-11-07,07:51,Cardiology,285,33.26199950403317,Cleanliness,Negative,Region-9,True
+P0732,2024-09-27,12:40,Oncology,196,31.112852604654073,Cleanliness,Positive,Region-5,False
+P0269,2024-08-04,05:11,Pediatrics,101,59.225071169087656,Staff Behavior,Negative,Region-5,True
+P0852,2024-02-26,20:42,Oncology,215,28.31474496593187,Staff Behavior,Neutral,Region-4,True
+P0831,2024-05-27,13:25,Orthopedics,292,17.027605207198583,Wait Time,Positive,Region-9,False
+P0087,2024-05-01,00:47,Orthopedics,228,31.158801867996907,Treatment Effectiveness,Neutral,Region-7,True
+P0882,2024-06-03,19:56,Pediatrics,207,1.527529396367321,Cleanliness,Neutral,Region-2,False
+P0244,2024-03-03,06:28,Orthopedics,132,36.36914441826251,Staff Behavior,Neutral,Region-3,True
+P0465,2024-01-25,18:27,Cardiology,88,52.894849984416716,Cleanliness,Positive,Region-6,False
+P0611,2024-05-02,12:00,Cardiology,204,51.56122992651719,Staff Behavior,Negative,Region-10,False
+P0379,2024-08-02,22:13,Orthopedics,198,20.11678181714925,Staff Behavior,Positive,Region-1,False
+P0029,2024-11-23,06:17,Cardiology,117,66.78607606722268,Staff Behavior,Negative,Region-5,True
+P0851,2024-11-14,22:51,Emergency,139,41.92101707350367,Cleanliness,Neutral,Region-8,True
+P0182,2024-08-22,02:36,Oncology,45,3.375793199647772,Cleanliness,Positive,Region-3,True
+P0213,2024-02-02,03:51,Emergency,221,3.6884172733025196,Cleanliness,Neutral,Region-10,True
+P0798,2024-02-26,17:11,Orthopedics,127,35.312037378897216,Treatment Effectiveness,Neutral,Region-3,False
+P0341,2024-09-12,11:20,Oncology,269,27.169080510993822,Cleanliness,Negative,Region-8,False
+P0881,2024-11-01,06:29,Pediatrics,144,42.1990834861162,Cleanliness,Negative,Region-8,False
+P0702,2024-10-01,03:16,Pediatrics,150,69.28338022548934,Wait Time,Negative,Region-5,True
+P0277,2024-01-09,21:55,Radiology,277,6.684480503858706,Staff Behavior,Positive,Region-3,True
+P0011,2024-11-19,15:33,Orthopedics,142,52.843168332590274,Cleanliness,Negative,Region-4,True
+P0949,2024-09-20,20:20,Orthopedics,216,38.37497182066824,Treatment Effectiveness,Negative,Region-4,True
+P0086,2024-10-21,19:24,Oncology,101,62.01389677703719,Treatment Effectiveness,Negative,Region-4,False
+P0721,2024-05-03,19:25,Pediatrics,40,54.29133684411463,Staff Behavior,Positive,Region-1,False
+P0489,2024-03-14,18:07,Oncology,98,20.838846400458205,Cleanliness,Positive,Region-6,True
+P0759,2024-05-29,11:22,Cardiology,74,37.70341804291797,Treatment Effectiveness,Positive,Region-10,False
+P0691,2024-08-07,14:39,Pediatrics,153,38.15833240884541,Treatment Effectiveness,Neutral,Region-2,False
+P0646,2024-01-01,05:52,Cardiology,61,44.315013254282555,Treatment Effectiveness,Positive,Region-3,False
+P0491,2024-11-10,21:45,Oncology,238,18.411422591984728,Treatment Effectiveness,Neutral,Region-7,True
+P0793,2024-06-29,09:58,Oncology,236,45.77706228688146,Cleanliness,Positive,Region-7,False
+P0094,2024-05-03,19:37,Emergency,144,48.125322678604604,Wait Time,Negative,Region-3,True
+P0222,2024-10-19,02:43,Pediatrics,256,48.47891687261921,Wait Time,Negative,Region-1,True
+P0692,2024-08-01,04:20,Orthopedics,101,49.56925535940993,Staff Behavior,Negative,Region-2,True
+P0307,2024-04-05,03:15,Oncology,169,39.283002083487624,Wait Time,Positive,Region-6,False
+P0582,2024-12-06,09:07,Emergency,14,42.153619246091544,Cleanliness,Neutral,Region-8,False
+P0474,2024-12-08,05:23,Orthopedics,82,44.525777092180945,Treatment Effectiveness,Negative,Region-3,False
+P0531,2024-02-13,22:09,Oncology,30,65.15455435508323,Treatment Effectiveness,Negative,Region-1,True
+P0426,2024-09-25,16:24,Cardiology,278,38.98736157473494,Staff Behavior,Negative,Region-2,True
+P0746,2024-07-03,13:38,Cardiology,16,1.765621410978476,Treatment Effectiveness,Neutral,Region-9,False
+P0331,2024-02-04,04:36,Emergency,100,33.23646880238563,Treatment Effectiveness,Positive,Region-6,False
+P0703,2024-09-26,12:27,Pediatrics,57,65.32991077985986,Cleanliness,Positive,Region-10,False
+P0271,2024-10-05,05:31,Radiology,149,41.75153641477847,Treatment Effectiveness,Neutral,Region-7,False
+P0252,2024-09-16,20:34,Radiology,142,24.537493228108755,Staff Behavior,Neutral,Region-3,True
+P0121,2024-09-16,22:58,Radiology,69,26.05693245829099,Staff Behavior,Positive,Region-7,False
+P0193,2024-10-10,20:59,Oncology,229,70.42099653686469,Wait Time,Neutral,Region-4,False
+P0120,2024-01-11,05:35,Oncology,9,21.917874139054113,Cleanliness,Positive,Region-1,False
+P0536,2024-07-18,05:31,Cardiology,124,12.893079560310857,Wait Time,Negative,Region-2,True
+P0763,2024-08-28,09:08,Pediatrics,51,50.34863256307975,Wait Time,Negative,Region-4,True
+P0186,2024-01-23,05:20,Emergency,82,43.43219284869131,Wait Time,Neutral,Region-7,True
+P0217,2024-11-21,14:39,Cardiology,12,22.58902986805879,Wait Time,Negative,Region-8,True
+P0485,2024-07-17,01:55,Oncology,257,56.73653041588623,Treatment Effectiveness,Negative,Region-5,False
+P0725,2024-07-10,11:00,Emergency,116,19.491462695305504,Staff Behavior,Negative,Region-10,False
+P0977,2024-05-09,15:08,Cardiology,180,45.68030383135674,Staff Behavior,Positive,Region-3,True
+P0525,2024-01-09,06:52,Radiology,220,42.04801718149055,Treatment Effectiveness,Negative,Region-7,True
+P0283,2024-07-01,12:35,Orthopedics,164,41.673059677071954,Staff Behavior,Positive,Region-2,False
+P0101,2024-02-04,16:41,Pediatrics,260,47.59871193256901,Treatment Effectiveness,Neutral,Region-8,True
+P0195,2024-06-25,15:26,Emergency,195,21.71447781794965,Wait Time,Neutral,Region-7,False
+P0228,2024-05-03,21:31,Cardiology,242,53.353985475946274,Staff Behavior,Positive,Region-5,False
+P0180,2024-12-02,13:45,Emergency,21,2.938164214520981,Wait Time,Positive,Region-8,True
+P0015,2024-11-17,14:31,Oncology,174,35.417973360853054,Treatment Effectiveness,Positive,Region-6,False
+P0535,2024-02-23,05:05,Pediatrics,46,10.004314816723191,Staff Behavior,Negative,Region-1,False
+P0275,2024-10-24,18:01,Pediatrics,79,6.457220431064161,Cleanliness,Neutral,Region-2,True
+P0975,2024-06-19,07:18,Orthopedics,33,56.6471603715961,Cleanliness,Neutral,Region-2,False
+P0554,2024-03-09,01:17,Oncology,141,18.895619186835372,Wait Time,Neutral,Region-2,True
+P0698,2024-01-23,07:34,Orthopedics,205,44.72164097390329,Cleanliness,Negative,Region-2,False
+P0127,2024-06-29,09:10,Oncology,41,20.540415152221506,Treatment Effectiveness,Negative,Region-8,True
+P0869,2024-10-06,14:36,Oncology,283,19.24385616189549,Wait Time,Neutral,Region-9,True
+P0491,2024-06-22,23:49,Cardiology,245,53.641470774412205,Treatment Effectiveness,Neutral,Region-4,True
+P0873,2024-11-25,15:35,Cardiology,97,43.87132931796895,Staff Behavior,Neutral,Region-1,True
+P0575,2024-03-30,16:07,Pediatrics,103,65.619335696218,Staff Behavior,Neutral,Region-10,False
+P0470,2024-12-16,18:07,Pediatrics,133,53.466673580785304,Wait Time,Neutral,Region-10,True
+P0441,2024-08-25,08:49,Orthopedics,200,47.80005046510975,Treatment Effectiveness,Positive,Region-10,False
+P0185,2024-12-22,17:52,Radiology,11,27.25344492760814,Treatment Effectiveness,Neutral,Region-8,True
+P0052,2024-09-02,11:34,Pediatrics,67,13.453354914105931,Cleanliness,Negative,Region-5,False
+P0942,2024-11-19,01:48,Oncology,132,56.55946707542997,Treatment Effectiveness,Positive,Region-2,True
+P0478,2024-04-03,23:28,Pediatrics,202,17.76990753732036,Staff Behavior,Neutral,Region-10,True
+P0823,2024-03-10,17:13,Cardiology,231,13.83745255139032,Treatment Effectiveness,Neutral,Region-3,True
+P0401,2024-02-02,13:06,Cardiology,131,38.44460868986714,Treatment Effectiveness,Positive,Region-7,False
+P0075,2024-08-22,23:53,Emergency,22,3.349427412019723,Wait Time,Positive,Region-8,False
+P0630,2024-01-19,20:48,Oncology,106,70.86908769601959,Cleanliness,Negative,Region-7,True
+P0054,2024-05-30,07:19,Emergency,240,69.68153999224296,Cleanliness,Neutral,Region-5,False
+P0150,2024-04-13,01:28,Cardiology,53,43.28363052241408,Wait Time,Negative,Region-10,False
+P0563,2024-01-23,08:22,Oncology,271,59.342387511914005,Cleanliness,Negative,Region-3,True
+P0304,2024-04-12,02:28,Pediatrics,111,60.470609591993146,Cleanliness,Positive,Region-2,False
+P0994,2024-01-22,03:49,Oncology,247,54.44605207848978,Treatment Effectiveness,Neutral,Region-6,False
+P0119,2024-06-10,07:13,Cardiology,204,30.319299233675842,Cleanliness,Neutral,Region-2,False
+P0765,2024-06-07,23:37,Emergency,164,28.2048564992418,Staff Behavior,Neutral,Region-9,False
+P0607,2024-09-20,22:22,Orthopedics,170,47.90737749079715,Wait Time,Neutral,Region-3,False
+P0791,2024-07-22,22:39,Cardiology,86,52.5459355210349,Cleanliness,Positive,Region-7,False
+P0226,2024-10-05,20:27,Pediatrics,26,12.877111524126144,Treatment Effectiveness,Positive,Region-1,False
+P0523,2024-08-30,05:39,Pediatrics,286,42.02077496155827,Staff Behavior,Positive,Region-7,False
+P0451,2024-05-09,04:50,Cardiology,271,60.77014550194424,Treatment Effectiveness,Positive,Region-9,True
+P0443,2024-01-19,06:52,Radiology,67,4.8571308448950745,Cleanliness,Neutral,Region-9,True
+P0861,2024-11-27,06:51,Radiology,134,19.77208021014451,Treatment Effectiveness,Neutral,Region-9,False
+P0991,2024-04-07,01:36,Emergency,251,59.18670167204439,Cleanliness,Neutral,Region-8,False
+P0306,2024-05-26,11:34,Orthopedics,157,4.729146986451953,Treatment Effectiveness,Neutral,Region-2,False
+P0622,2024-07-01,08:38,Radiology,106,33.9450598903811,Wait Time,Neutral,Region-9,True
+P0610,2024-01-25,17:10,Pediatrics,189,34.812467905857154,Wait Time,Neutral,Region-10,True
+P0741,2024-12-01,10:45,Radiology,31,34.814903087740305,Wait Time,Positive,Region-9,False
+P0948,2024-06-18,09:18,Cardiology,116,68.3258759932397,Staff Behavior,Neutral,Region-2,False
+P0208,2024-05-19,18:17,Pediatrics,62,66.49460665739312,Staff Behavior,Neutral,Region-4,False
+P0212,2024-03-04,16:57,Emergency,125,17.589953131719348,Treatment Effectiveness,Positive,Region-2,False
+P0661,2024-07-07,21:52,Oncology,227,49.52920705898221,Wait Time,Negative,Region-3,False
+P0158,2024-08-11,03:08,Pediatrics,171,28.695004550336744,Cleanliness,Neutral,Region-10,True
+P0174,2024-07-23,13:58,Emergency,12,19.646385753941818,Cleanliness,Neutral,Region-3,True
+P0076,2024-08-13,01:17,Orthopedics,90,38.66139141313522,Wait Time,Positive,Region-1,True
+P0003,2024-07-16,20:08,Cardiology,146,31.86613740654495,Cleanliness,Positive,Region-9,True
+P0451,2024-06-22,22:55,Oncology,66,21.504247775918238,Staff Behavior,Negative,Region-8,True
+P0594,2024-04-05,04:15,Oncology,207,57.60894215007323,Wait Time,Neutral,Region-6,False
+P0292,2024-09-11,04:45,Orthopedics,129,28.12229072431498,Staff Behavior,Positive,Region-2,True
+P0232,2024-12-20,10:53,Emergency,9,23.41389235321546,Treatment Effectiveness,Neutral,Region-1,False
+P0707,2024-09-11,07:48,Pediatrics,26,38.64799302432103,Wait Time,Negative,Region-3,True
+P0703,2024-07-07,21:25,Oncology,248,68.8668230988998,Staff Behavior,Neutral,Region-10,False
+P0455,2024-09-22,15:09,Cardiology,84,7.912866772395088,Staff Behavior,Positive,Region-4,True
+P0688,2024-05-16,18:40,Oncology,195,38.721828008123595,Staff Behavior,Positive,Region-3,False
+P0924,2024-02-12,08:40,Orthopedics,50,26.121794714696993,Cleanliness,Positive,Region-2,False
+P0788,2024-08-05,13:24,Pediatrics,132,60.94098908198473,Treatment Effectiveness,Neutral,Region-9,True
+P0626,2024-02-10,14:04,Orthopedics,85,44.3444753302707,Wait Time,Negative,Region-5,True
+P0662,2024-08-08,20:50,Pediatrics,260,47.296680621380006,Cleanliness,Neutral,Region-1,False
+P0934,2024-11-04,02:25,Radiology,51,20.3539322449467,Treatment Effectiveness,Negative,Region-2,False
+P0426,2024-04-02,16:47,Pediatrics,178,20.193154319846883,Wait Time,Negative,Region-2,True
+P0545,2024-10-06,08:44,Emergency,35,57.964461624455836,Treatment Effectiveness,Neutral,Region-9,True
+P0648,2024-05-30,11:29,Oncology,35,19.1294182424126,Cleanliness,Neutral,Region-5,False
+P0909,2024-06-13,15:20,Oncology,187,42.47655520418224,Staff Behavior,Positive,Region-6,True
+P0827,2024-02-22,18:00,Radiology,83,33.738710134429645,Staff Behavior,Positive,Region-9,False
+P0072,2024-02-10,23:05,Orthopedics,279,48.94566945869814,Cleanliness,Positive,Region-3,False
+P0166,2024-06-16,23:29,Cardiology,59,18.16758475554179,Cleanliness,Negative,Region-7,False
+P0308,2024-12-04,20:42,Oncology,69,48.704179590936185,Treatment Effectiveness,Negative,Region-1,False
+P0749,2024-05-31,22:22,Pediatrics,254,55.70530732601675,Cleanliness,Neutral,Region-4,True
+P0570,2024-06-05,02:50,Radiology,124,37.91661486741802,Cleanliness,Negative,Region-5,False
+P0289,2024-08-16,17:25,Cardiology,167,49.11798937626005,Wait Time,Neutral,Region-1,True
+P0125,2024-11-04,06:27,Cardiology,290,71.51825413684608,Staff Behavior,Negative,Region-9,False
+P0689,2024-08-06,06:31,Radiology,182,23.242157778743586,Wait Time,Neutral,Region-5,False
+P0700,2024-03-26,08:20,Pediatrics,229,1.7510372308562063,Treatment Effectiveness,Positive,Region-9,False
+P0943,2024-12-19,09:21,Emergency,103,1.6018078330900813,Treatment Effectiveness,Neutral,Region-8,False
+P0501,2024-08-15,17:36,Oncology,15,5.824588804313983,Treatment Effectiveness,Negative,Region-3,False
+P0494,2024-06-28,04:36,Orthopedics,198,30.198662429575705,Staff Behavior,Negative,Region-10,True
+P0081,2024-08-16,15:50,Oncology,188,38.293762738834445,Treatment Effectiveness,Negative,Region-8,True
+P0040,2024-01-22,10:57,Orthopedics,73,49.67046820865494,Treatment Effectiveness,Neutral,Region-6,False
+P0433,2024-06-29,21:48,Oncology,133,25.95766580535888,Staff Behavior,Neutral,Region-9,True
+P0323,2024-11-10,01:02,Radiology,25,52.49279657836324,Treatment Effectiveness,Negative,Region-6,True
+P0251,2024-08-10,03:40,Pediatrics,253,18.88462360731249,Wait Time,Positive,Region-10,True
+P0092,2024-05-20,14:01,Oncology,229,3.4169651395286076,Staff Behavior,Positive,Region-9,True
+P0962,2024-11-23,03:59,Radiology,291,44.977202881334954,Staff Behavior,Neutral,Region-9,False
+P0836,2024-01-30,05:28,Radiology,155,5.038615723206754,Treatment Effectiveness,Neutral,Region-4,False
+P0576,2024-02-08,14:00,Pediatrics,282,43.18383935555064,Cleanliness,Positive,Region-2,False
+P0951,2024-12-09,13:12,Pediatrics,255,64.47165445474981,Treatment Effectiveness,Neutral,Region-1,True
+P1000,2024-11-22,22:58,Orthopedics,102,16.39455493900713,Staff Behavior,Neutral,Region-4,False
+P0673,2024-07-26,04:56,Emergency,295,43.55633327591333,Wait Time,Negative,Region-1,True
+P0270,2024-07-05,20:19,Pediatrics,100,9.647099318156625,Treatment Effectiveness,Neutral,Region-4,False
+P0041,2024-09-19,05:55,Orthopedics,283,69.00346897928695,Staff Behavior,Negative,Region-3,True
+P0757,2024-12-13,08:05,Radiology,183,7.133432558233274,Cleanliness,Positive,Region-5,False
+P0471,2024-03-22,20:23,Oncology,170,43.932690689142156,Treatment Effectiveness,Positive,Region-4,True
+P0652,2024-01-16,08:05,Oncology,244,27.693049249082936,Staff Behavior,Positive,Region-3,False
+P0917,2024-03-14,11:42,Pediatrics,145,55.23390140304492,Staff Behavior,Positive,Region-10,True
+P0182,2024-11-07,20:10,Pediatrics,288,47.0013145148075,Treatment Effectiveness,Positive,Region-9,False
+P0586,2024-12-13,01:25,Oncology,87,58.02720467499458,Wait Time,Negative,Region-4,True
+P0635,2024-08-12,20:19,Oncology,40,14.118571762860679,Wait Time,Positive,Region-10,False
+P0492,2024-01-18,23:44,Orthopedics,276,8.870001155074,Staff Behavior,Positive,Region-6,False
+P0092,2024-03-05,07:27,Pediatrics,84,14.08267249157158,Wait Time,Positive,Region-5,True
+P0348,2024-02-04,20:05,Pediatrics,235,21.9143717821974,Staff Behavior,Positive,Region-3,False
+P0334,2024-04-30,22:06,Orthopedics,156,47.89392709336374,Cleanliness,Positive,Region-10,True
+P0671,2024-11-26,00:13,Oncology,139,6.375706474135934,Cleanliness,Negative,Region-7,True
+P0858,2024-07-06,15:04,Orthopedics,282,33.19450731956491,Staff Behavior,Positive,Region-2,True
+P0330,2024-07-04,04:37,Cardiology,192,71.66256352233314,Cleanliness,Neutral,Region-9,True
+P0694,2024-07-15,07:33,Emergency,237,55.624498220651006,Treatment Effectiveness,Negative,Region-5,False
+P0289,2024-10-17,21:28,Emergency,5,50.14772591844793,Cleanliness,Neutral,Region-5,False
+P0946,2024-01-17,00:00,Cardiology,264,48.39812335119781,Wait Time,Positive,Region-7,True
+P0814,2024-11-05,22:21,Emergency,199,55.67849229992697,Staff Behavior,Neutral,Region-3,False
+P0551,2024-03-19,03:55,Emergency,99,19.270898271348983,Cleanliness,Neutral,Region-7,True
+P0455,2024-12-13,13:44,Radiology,14,56.43192219923281,Wait Time,Neutral,Region-8,True
+P0315,2024-08-18,04:30,Pediatrics,191,20.687411190379574,Wait Time,Positive,Region-2,True
+P0324,2024-07-08,02:14,Orthopedics,127,5.42950397117979,Staff Behavior,Neutral,Region-5,True
+P0971,2024-07-09,12:05,Pediatrics,169,28.589920368928357,Cleanliness,Negative,Region-7,False
+P0405,2024-08-15,23:51,Emergency,37,71.7130582650316,Wait Time,Neutral,Region-3,True
+P0515,2024-02-09,03:06,Emergency,280,19.334941013515024,Wait Time,Neutral,Region-9,True
+P0989,2024-10-20,10:23,Pediatrics,203,58.70886133455637,Cleanliness,Negative,Region-4,True
+P0658,2024-03-11,09:08,Radiology,102,13.632993551200721,Treatment Effectiveness,Positive,Region-2,True
+P0543,2024-09-28,12:49,Oncology,273,5.927292174937176,Cleanliness,Negative,Region-5,False
+P0414,2024-07-06,04:41,Cardiology,259,70.53896059043427,Wait Time,Positive,Region-4,True
+P0188,2024-07-22,21:09,Cardiology,287,15.247507120158028,Cleanliness,Positive,Region-6,True
+P0362,2024-06-09,02:33,Oncology,83,28.87704561404432,Staff Behavior,Neutral,Region-10,False
+P0757,2024-11-28,18:00,Pediatrics,149,46.82930557382157,Treatment Effectiveness,Negative,Region-9,False
+P0626,2024-05-22,19:41,Oncology,170,8.698563271872356,Staff Behavior,Positive,Region-10,True
+P0760,2024-05-07,05:28,Radiology,214,39.384883132414664,Treatment Effectiveness,Neutral,Region-3,True
+P0204,2024-02-28,11:46,Oncology,169,31.619003925513034,Wait Time,Neutral,Region-7,True
+P0550,2024-01-14,06:40,Cardiology,61,44.591606659270894,Wait Time,Negative,Region-3,False
+P0928,2024-04-05,23:09,Oncology,54,8.543729534709861,Cleanliness,Negative,Region-6,True
+P0439,2024-09-12,13:39,Pediatrics,272,32.35230134273635,Staff Behavior,Neutral,Region-7,True
+P0699,2024-09-22,21:28,Pediatrics,39,19.388734209041186,Staff Behavior,Negative,Region-7,False
+P0122,2024-07-17,06:05,Pediatrics,27,3.475123518536126,Wait Time,Positive,Region-1,False
+P0974,2024-10-14,03:08,Emergency,71,5.999275226633722,Staff Behavior,Positive,Region-10,True
+P0609,2024-03-01,03:37,Cardiology,96,52.65570575589195,Staff Behavior,Positive,Region-4,False
+P0240,2024-05-14,23:24,Cardiology,21,56.183838737440304,Staff Behavior,Neutral,Region-2,True
+P0159,2024-05-13,11:27,Pediatrics,108,2.332300310227123,Treatment Effectiveness,Positive,Region-5,True
+P0551,2024-12-26,10:50,Pediatrics,59,36.33679782277832,Cleanliness,Positive,Region-2,True
+P0553,2024-08-16,04:15,Orthopedics,253,47.353438619254554,Wait Time,Neutral,Region-9,True
+P0094,2024-04-19,08:41,Emergency,103,1.0616025793213721,Wait Time,Neutral,Region-2,True
+P0993,2024-11-09,02:15,Pediatrics,55,3.686329924963516,Cleanliness,Neutral,Region-9,False
+P0913,2024-05-26,17:38,Radiology,21,28.724351286269645,Cleanliness,Negative,Region-7,True
+P0462,2024-12-21,19:46,Orthopedics,297,11.76413064974486,Wait Time,Negative,Region-2,True
+P0118,2024-09-08,19:18,Orthopedics,203,24.417991721837556,Wait Time,Negative,Region-6,True
+P0833,2024-04-12,22:01,Cardiology,255,28.784455960984957,Staff Behavior,Neutral,Region-2,False
+P0499,2024-03-03,21:56,Radiology,274,1.2629665701999686,Staff Behavior,Positive,Region-6,False
+P0717,2024-03-10,09:13,Oncology,136,51.24000129650299,Treatment Effectiveness,Neutral,Region-6,True
+P0509,2024-02-07,16:38,Pediatrics,30,55.74033463625789,Wait Time,Negative,Region-5,True
+P0274,2024-08-19,16:12,Cardiology,192,34.94789925187896,Cleanliness,Negative,Region-3,True
+P0835,2024-03-29,23:25,Oncology,118,29.677805371042258,Cleanliness,Neutral,Region-4,False
+P0981,2024-12-31,09:41,Pediatrics,41,52.67148690258361,Wait Time,Neutral,Region-5,False
+P0244,2024-08-15,01:50,Radiology,11,58.671571431771675,Treatment Effectiveness,Positive,Region-1,True
+P0552,2024-02-14,07:31,Pediatrics,111,5.977077680447238,Wait Time,Negative,Region-2,False
+P0384,2024-12-15,12:07,Radiology,256,17.03512577887492,Cleanliness,Neutral,Region-7,True
+P0922,2024-06-12,07:31,Cardiology,45,28.294095052369155,Wait Time,Neutral,Region-4,False
+P0509,2024-12-07,20:38,Orthopedics,244,49.937552899691035,Cleanliness,Negative,Region-7,True
+P0880,2024-06-26,02:33,Emergency,36,56.36792188306681,Treatment Effectiveness,Neutral,Region-2,False
+P0865,2024-12-29,00:23,Orthopedics,189,9.60545917059716,Treatment Effectiveness,Neutral,Region-2,True
+P0277,2024-02-03,10:08,Pediatrics,290,39.00658943048115,Treatment Effectiveness,Neutral,Region-3,False
+P0791,2024-10-08,12:55,Emergency,217,71.40369800838232,Staff Behavior,Negative,Region-9,True
+P0415,2024-10-04,18:26,Emergency,193,24.67421961136413,Wait Time,Neutral,Region-5,True
+P0935,2024-05-28,11:34,Radiology,34,22.500793430534383,Wait Time,Positive,Region-10,False
+P0508,2024-06-02,21:11,Radiology,141,4.918821795965346,Treatment Effectiveness,Negative,Region-8,False
+P0821,2024-03-21,15:49,Emergency,275,71.78812153694402,Treatment Effectiveness,Neutral,Region-2,False
+P0283,2024-12-30,02:01,Orthopedics,25,46.94228307483609,Staff Behavior,Positive,Region-9,False
+P0299,2024-12-29,18:04,Emergency,41,26.940230667281647,Cleanliness,Positive,Region-6,True
+P0587,2024-12-24,00:16,Cardiology,160,61.58728756178701,Staff Behavior,Neutral,Region-10,True
+P0999,2024-11-22,06:02,Orthopedics,44,25.144458105507727,Staff Behavior,Neutral,Region-5,False
+P0490,2024-03-30,01:50,Emergency,115,60.723892686027234,Wait Time,Positive,Region-9,True
+P0149,2024-07-04,12:32,Orthopedics,270,54.992168742582756,Wait Time,Negative,Region-5,True
+P0539,2024-09-17,09:40,Oncology,54,21.58706543589586,Treatment Effectiveness,Positive,Region-10,True
+P0346,2024-04-24,22:32,Pediatrics,56,15.42155346676632,Cleanliness,Positive,Region-2,True
+P0552,2024-03-03,13:27,Oncology,123,40.36775848859931,Wait Time,Negative,Region-1,False
+P0544,2024-04-12,22:25,Orthopedics,277,69.69342020359352,Wait Time,Positive,Region-3,False
+P0456,2024-03-12,02:40,Radiology,202,47.91212029428202,Treatment Effectiveness,Neutral,Region-6,False
+P0322,2024-05-01,17:34,Pediatrics,102,22.21979450738163,Wait Time,Positive,Region-7,True
+P0189,2024-09-09,19:09,Oncology,103,28.69743548816971,Treatment Effectiveness,Positive,Region-3,True
+P0698,2024-01-14,08:05,Emergency,274,8.580529188914678,Wait Time,Neutral,Region-6,False
+P0572,2024-07-03,09:05,Pediatrics,132,49.90782335033669,Staff Behavior,Neutral,Region-9,True
+P0234,2024-10-10,16:58,Oncology,296,35.54175148923125,Wait Time,Neutral,Region-9,True
+P0776,2024-10-20,06:51,Orthopedics,96,63.850204981328396,Cleanliness,Neutral,Region-10,True
+P0044,2024-07-07,04:34,Oncology,290,32.096846202075604,Cleanliness,Neutral,Region-7,True
+P0745,2024-08-27,10:25,Pediatrics,290,14.451979189633944,Wait Time,Neutral,Region-8,True
+P0706,2024-10-09,18:40,Emergency,217,3.5345784925638366,Staff Behavior,Positive,Region-10,True
+P0812,2024-03-07,20:43,Oncology,59,2.800886989395845,Treatment Effectiveness,Positive,Region-3,False
+P0387,2024-11-09,20:04,Cardiology,300,71.7432327352399,Treatment Effectiveness,Neutral,Region-5,True
+P0664,2024-02-14,09:44,Cardiology,188,17.93244432460897,Staff Behavior,Positive,Region-1,True
+P0821,2024-02-03,13:46,Orthopedics,239,28.6024948766267,Wait Time,Positive,Region-9,True
+P0981,2024-06-07,07:03,Oncology,223,57.284481200420814,Staff Behavior,Negative,Region-3,False
+P0496,2024-07-22,07:05,Radiology,58,46.68194227553078,Staff Behavior,Positive,Region-3,True
+P0038,2024-09-02,13:07,Radiology,90,36.47757475755917,Cleanliness,Neutral,Region-3,True
+P0503,2024-09-26,14:39,Orthopedics,97,69.51172306561298,Wait Time,Neutral,Region-7,True
+P0591,2024-07-29,19:03,Oncology,286,58.63624416217816,Cleanliness,Positive,Region-10,True
+P0870,2024-07-28,09:42,Cardiology,210,69.62676393020293,Wait Time,Positive,Region-5,False
+P0875,2024-10-21,23:42,Oncology,263,2.1656983020158864,Treatment Effectiveness,Positive,Region-1,False
+P0441,2024-02-07,23:11,Pediatrics,177,25.089242517798137,Staff Behavior,Positive,Region-6,False
+P0526,2024-03-05,03:00,Oncology,85,24.978020913394356,Staff Behavior,Neutral,Region-4,True
+P0457,2024-06-11,22:08,Emergency,278,52.191851228772336,Cleanliness,Neutral,Region-10,True
+P0723,2024-11-24,22:00,Cardiology,231,29.79105777584973,Cleanliness,Neutral,Region-7,False
+P0410,2024-02-07,05:31,Radiology,185,16.029150473358946,Treatment Effectiveness,Negative,Region-8,False
+P0655,2024-08-18,11:33,Oncology,166,47.4233453525563,Cleanliness,Positive,Region-3,False
+P0155,2024-08-26,16:50,Orthopedics,286,38.14149438995343,Treatment Effectiveness,Negative,Region-8,False
+P0470,2024-12-14,23:16,Radiology,171,67.74637506264094,Wait Time,Negative,Region-6,False
+P0970,2024-09-21,05:23,Emergency,195,62.78420209938387,Cleanliness,Negative,Region-8,False
+P0339,2024-06-25,04:47,Orthopedics,216,39.09585892838021,Staff Behavior,Positive,Region-9,True
+P0693,2024-03-06,08:46,Cardiology,225,53.614656456809826,Treatment Effectiveness,Neutral,Region-5,False
+P0650,2024-10-09,03:49,Pediatrics,170,17.541981851025835,Cleanliness,Positive,Region-5,True
+P0852,2024-11-23,00:21,Emergency,128,6.114376557009772,Wait Time,Negative,Region-7,True
+P0853,2024-10-27,13:17,Radiology,293,53.21764037797543,Treatment Effectiveness,Negative,Region-9,False
+P0860,2024-04-03,16:04,Pediatrics,284,35.71152464614837,Wait Time,Neutral,Region-4,False
+P0381,2024-03-07,08:45,Emergency,114,2.3534734879180315,Wait Time,Positive,Region-5,True
+P0317,2024-08-09,18:40,Oncology,197,65.40970035030956,Wait Time,Negative,Region-2,False
+P0719,2024-09-14,02:31,Pediatrics,286,44.904417896657584,Staff Behavior,Positive,Region-5,True
+P0760,2024-01-29,14:32,Oncology,135,18.230461163759777,Staff Behavior,Neutral,Region-7,True
+P0873,2024-03-04,11:03,Oncology,189,47.06383575698867,Staff Behavior,Negative,Region-6,False
+P0036,2024-09-22,15:54,Cardiology,236,2.019929552299375,Wait Time,Negative,Region-2,False
+P0069,2024-03-19,18:10,Radiology,234,45.918963287375995,Cleanliness,Negative,Region-2,False
+P0632,2024-06-04,11:10,Oncology,208,65.23102689401023,Staff Behavior,Negative,Region-2,False
+P0921,2024-03-25,08:49,Radiology,5,59.27248483413826,Staff Behavior,Positive,Region-4,False
+P0998,2024-03-23,03:57,Emergency,22,7.907749067165741,Staff Behavior,Neutral,Region-2,False
+P0747,2024-06-14,18:43,Emergency,150,44.39703814773966,Treatment Effectiveness,Negative,Region-3,True
+P0434,2024-12-29,23:07,Orthopedics,13,60.3100031462611,Staff Behavior,Negative,Region-10,False
+P0099,2024-04-25,07:47,Pediatrics,270,5.540990688382176,Treatment Effectiveness,Negative,Region-1,False
+P0634,2024-06-26,16:00,Oncology,74,59.040398035567364,Staff Behavior,Positive,Region-2,True
+P0873,2024-09-22,01:54,Oncology,159,9.106757419535429,Staff Behavior,Negative,Region-5,False
+P0444,2024-05-25,00:15,Radiology,8,43.2433959077406,Staff Behavior,Positive,Region-9,False
+P0695,2024-02-10,01:30,Oncology,158,44.709625435327354,Treatment Effectiveness,Positive,Region-8,True
+P0904,2024-05-08,11:24,Radiology,118,5.480817929776014,Staff Behavior,Neutral,Region-1,False
+P0046,2024-04-10,04:11,Pediatrics,114,15.387520948506994,Treatment Effectiveness,Neutral,Region-7,True
+P0797,2024-11-21,01:35,Orthopedics,166,24.951360826328344,Treatment Effectiveness,Neutral,Region-9,True
+P0294,2024-10-09,22:47,Radiology,16,60.34861230653289,Cleanliness,Negative,Region-3,False
+P0375,2024-05-20,20:26,Pediatrics,146,53.39291661356573,Staff Behavior,Neutral,Region-8,False
+P0146,2024-03-05,07:20,Orthopedics,288,29.542611338352266,Wait Time,Positive,Region-8,False
+P0532,2024-11-16,07:26,Pediatrics,266,9.576973209422691,Cleanliness,Negative,Region-9,False
+P0566,2024-06-04,23:20,Cardiology,289,49.570275223952954,Staff Behavior,Neutral,Region-9,False
+P0793,2024-11-10,08:52,Pediatrics,297,39.757820552217865,Treatment Effectiveness,Negative,Region-2,True
+P0170,2024-09-30,02:36,Emergency,297,23.83288190056624,Cleanliness,Neutral,Region-7,True
+P0079,2024-02-17,11:07,Pediatrics,84,69.49315968386992,Treatment Effectiveness,Neutral,Region-1,True
+P0871,2024-09-14,16:43,Emergency,53,16.139460461290028,Cleanliness,Negative,Region-10,False
+P0620,2024-11-24,01:11,Pediatrics,24,4.236644745685551,Staff Behavior,Positive,Region-4,False
+P0241,2024-03-27,07:51,Emergency,240,13.314783057725165,Wait Time,Positive,Region-1,True
+P0913,2024-10-30,16:02,Emergency,187,5.488754023409852,Wait Time,Negative,Region-7,False
+P0144,2024-10-24,12:04,Radiology,84,20.44642837366322,Wait Time,Positive,Region-9,True
+P0462,2024-03-19,14:55,Radiology,75,54.78605611976949,Staff Behavior,Negative,Region-6,True
+P0254,2024-03-28,09:49,Emergency,140,12.93161057261378,Wait Time,Neutral,Region-4,True
+P0256,2024-12-03,09:20,Pediatrics,192,27.264841379910326,Staff Behavior,Neutral,Region-9,False
+P0010,2024-11-15,02:35,Orthopedics,132,12.715434999353777,Wait Time,Neutral,Region-10,False
+P0805,2024-11-05,14:00,Cardiology,124,18.298767274044174,Treatment Effectiveness,Positive,Region-1,True
+P0902,2024-06-21,11:12,Cardiology,136,42.320991925072825,Staff Behavior,Neutral,Region-10,False
+P0678,2024-10-15,09:36,Cardiology,158,10.469332271052274,Staff Behavior,Negative,Region-8,True
+P0158,2024-01-22,09:47,Radiology,52,57.16471298905489,Treatment Effectiveness,Negative,Region-3,True
+P0442,2024-01-15,19:15,Cardiology,297,45.885817523921624,Cleanliness,Negative,Region-9,False
+P0346,2024-02-11,14:23,Emergency,209,27.705304981872263,Staff Behavior,Positive,Region-4,True
+P0588,2024-01-24,18:31,Emergency,296,12.20050995878691,Wait Time,Neutral,Region-3,False
+P0639,2024-11-24,06:46,Pediatrics,116,63.45351279955127,Cleanliness,Neutral,Region-2,True
+P0425,2024-10-22,17:48,Emergency,44,6.7313051480861015,Wait Time,Positive,Region-6,False
+P0251,2024-05-15,07:09,Pediatrics,171,1.5129036362343413,Staff Behavior,Positive,Region-3,False
+P0846,2024-11-29,00:59,Emergency,252,66.75572389609387,Wait Time,Negative,Region-9,True
+P0200,2024-04-17,13:01,Orthopedics,93,51.178628640433104,Staff Behavior,Negative,Region-6,True
+P0385,2024-10-19,07:34,Cardiology,254,43.15486715712379,Treatment Effectiveness,Neutral,Region-1,False
+P0484,2024-08-01,11:40,Oncology,300,21.144939739642876,Cleanliness,Negative,Region-7,False
+P0238,2024-11-12,22:56,Radiology,53,50.238750445293164,Treatment Effectiveness,Negative,Region-8,True
+P0572,2024-11-23,00:21,Pediatrics,158,57.24909075239265,Cleanliness,Neutral,Region-7,True
+P0575,2024-01-16,00:48,Oncology,24,34.79688561825038,Cleanliness,Neutral,Region-3,True
+P0993,2024-09-11,21:24,Radiology,300,10.00936176357698,Wait Time,Neutral,Region-6,False
+P0296,2024-11-17,23:46,Orthopedics,200,11.159238147941416,Treatment Effectiveness,Negative,Region-2,True
+P0978,2024-10-06,09:06,Cardiology,45,20.237432078563923,Wait Time,Positive,Region-6,False
+P0659,2024-05-28,06:33,Pediatrics,33,32.979758301781295,Treatment Effectiveness,Neutral,Region-4,False
+P0275,2024-11-24,07:26,Emergency,176,17.987016883524973,Wait Time,Neutral,Region-9,False
+P0566,2024-06-03,15:03,Emergency,183,13.392974453778537,Treatment Effectiveness,Positive,Region-2,False
+P0686,2024-09-04,04:45,Radiology,227,50.108823445969115,Wait Time,Negative,Region-5,True
+P0745,2024-05-05,08:05,Pediatrics,218,43.33530992105627,Staff Behavior,Neutral,Region-5,True
+P0050,2024-12-16,01:58,Pediatrics,66,51.92111164698021,Wait Time,Positive,Region-8,True
+P0607,2024-07-26,07:57,Orthopedics,121,44.45553705447288,Staff Behavior,Positive,Region-5,False
+P0497,2024-06-01,16:26,Radiology,10,7.249504748959891,Staff Behavior,Negative,Region-5,False
+P0905,2024-08-20,22:57,Oncology,200,59.68033547374155,Treatment Effectiveness,Positive,Region-4,True
+P0287,2024-02-07,11:29,Radiology,32,22.385183428955095,Wait Time,Negative,Region-1,False
+P0799,2024-12-18,23:05,Orthopedics,161,30.733796777758542,Staff Behavior,Neutral,Region-10,False
+P0608,2024-01-31,18:06,Orthopedics,273,40.59743864633418,Treatment Effectiveness,Positive,Region-7,True
+P0353,2024-03-21,16:08,Orthopedics,26,14.625103193097225,Wait Time,Positive,Region-4,True
+P0637,2024-08-13,20:52,Oncology,168,71.0488502580235,Staff Behavior,Negative,Region-5,False
+P0621,2024-07-31,12:04,Orthopedics,281,70.35219503785336,Wait Time,Neutral,Region-9,True
+P0678,2024-09-04,18:36,Emergency,294,44.943386731259466,Staff Behavior,Positive,Region-1,False
+P0721,2024-08-25,01:27,Orthopedics,81,62.253905266822166,Cleanliness,Positive,Region-8,False
+P0660,2024-04-14,21:08,Emergency,172,71.06153071165323,Staff Behavior,Neutral,Region-10,True
+P0839,2024-06-23,07:18,Emergency,262,37.035393719141226,Cleanliness,Neutral,Region-8,True
+P0629,2024-11-06,08:54,Oncology,118,33.95933650205672,Staff Behavior,Neutral,Region-1,False
+P0904,2024-03-14,10:59,Cardiology,83,45.47896140673926,Cleanliness,Positive,Region-6,True
+P0647,2024-06-09,12:44,Oncology,30,15.775717903869506,Staff Behavior,Positive,Region-1,True
+P0309,2024-06-12,23:20,Emergency,206,4.767900368228911,Wait Time,Negative,Region-10,False
+P0441,2024-06-25,10:28,Radiology,233,9.000217687782053,Cleanliness,Neutral,Region-8,False
+P0580,2024-07-23,08:14,Pediatrics,299,11.594436605664384,Staff Behavior,Negative,Region-6,True
+P0733,2024-03-07,02:12,Pediatrics,263,60.90850031203584,Treatment Effectiveness,Positive,Region-5,False
+P0091,2024-07-08,04:49,Radiology,51,65.7153903892883,Treatment Effectiveness,Neutral,Region-6,True
+P0296,2024-09-20,18:06,Orthopedics,118,36.3235534840747,Treatment Effectiveness,Negative,Region-2,True
+P0748,2024-10-14,04:06,Orthopedics,226,12.34293114081119,Treatment Effectiveness,Neutral,Region-1,False
+P0176,2024-02-24,05:28,Emergency,153,66.50978580162828,Wait Time,Negative,Region-6,True
+P0133,2024-06-12,14:20,Radiology,206,4.835960617550605,Treatment Effectiveness,Positive,Region-3,True
+P0540,2024-05-03,13:07,Oncology,80,26.85770790457413,Treatment Effectiveness,Negative,Region-7,False
+P0972,2024-08-26,17:22,Radiology,72,15.880872449738431,Staff Behavior,Positive,Region-6,True
+P0531,2024-03-03,06:28,Emergency,177,18.848106359950584,Treatment Effectiveness,Negative,Region-1,False
+P0914,2024-05-16,09:29,Pediatrics,47,44.794173882647684,Cleanliness,Neutral,Region-2,False
+P0831,2024-08-18,08:54,Oncology,248,64.19565112774796,Cleanliness,Positive,Region-7,False
+P0257,2024-05-06,03:05,Emergency,297,33.17348156925694,Cleanliness,Neutral,Region-8,False
+P0825,2024-03-13,05:51,Pediatrics,30,8.413898069930067,Wait Time,Positive,Region-4,False
+P0482,2024-02-19,21:19,Orthopedics,285,4.724417147525812,Staff Behavior,Positive,Region-2,False
+P0807,2024-01-26,22:44,Oncology,209,39.152605418026596,Wait Time,Negative,Region-9,True
+P0747,2024-05-28,19:02,Oncology,139,12.22123835809479,Treatment Effectiveness,Neutral,Region-9,False
+P0339,2024-07-15,06:53,Emergency,48,3.06363098650693,Staff Behavior,Positive,Region-3,False
+P0116,2024-11-11,10:09,Pediatrics,209,37.55816395014987,Wait Time,Negative,Region-7,True
+P0963,2024-08-02,02:45,Radiology,261,6.031024393071389,Wait Time,Neutral,Region-2,False
+P0141,2024-05-07,07:22,Radiology,227,17.706288004067677,Staff Behavior,Negative,Region-8,False
+P0967,2024-03-22,12:32,Oncology,71,32.58228338571021,Staff Behavior,Neutral,Region-1,False
+P0861,2024-06-16,01:43,Orthopedics,74,42.163086080134164,Cleanliness,Positive,Region-3,False
+P0725,2024-10-22,09:16,Cardiology,251,30.753705465133105,Treatment Effectiveness,Positive,Region-5,True
+P0980,2024-06-09,05:01,Pediatrics,291,54.043159500185624,Wait Time,Neutral,Region-4,False
+P0968,2024-04-07,12:54,Radiology,106,64.78446573856198,Staff Behavior,Neutral,Region-8,True
+P0805,2024-03-22,14:35,Radiology,254,17.3344897278193,Treatment Effectiveness,Neutral,Region-7,True
+P0366,2024-09-12,23:35,Emergency,207,8.819433630670517,Cleanliness,Positive,Region-6,True
+P0791,2024-09-20,07:06,Radiology,297,17.172526538093038,Treatment Effectiveness,Positive,Region-5,True
+P0014,2024-08-27,14:06,Cardiology,105,17.835403661281603,Treatment Effectiveness,Neutral,Region-6,True
+P0537,2024-09-12,04:07,Radiology,292,30.294277472510387,Cleanliness,Negative,Region-7,True
+P0455,2024-06-06,00:03,Oncology,273,15.196864021292319,Staff Behavior,Neutral,Region-3,True
+P0673,2024-09-11,07:08,Pediatrics,131,64.28692563375128,Wait Time,Negative,Region-9,False
+P0673,2024-01-12,06:52,Emergency,129,6.220609861912639,Staff Behavior,Negative,Region-5,False
+P0585,2024-02-16,12:23,Oncology,41,42.5415502890419,Wait Time,Neutral,Region-2,True
+P0823,2024-07-20,21:40,Pediatrics,141,4.858094269221329,Staff Behavior,Negative,Region-8,True
+P0941,2024-09-15,20:05,Orthopedics,225,31.946419300815688,Staff Behavior,Negative,Region-8,True
+P0109,2024-08-22,18:37,Radiology,170,16.347726508080846,Staff Behavior,Neutral,Region-3,True
+P0234,2024-05-03,08:58,Radiology,299,44.26978205371165,Cleanliness,Positive,Region-3,False
+P0026,2024-04-20,02:01,Pediatrics,50,13.642314348373196,Wait Time,Neutral,Region-6,True
+P0885,2024-10-25,02:12,Pediatrics,62,27.51744081590121,Staff Behavior,Neutral,Region-7,True
+P0562,2024-06-29,20:28,Oncology,216,33.49955370357116,Staff Behavior,Neutral,Region-1,False
+P0916,2024-01-25,04:05,Radiology,221,14.784999526094639,Wait Time,Neutral,Region-6,True
+P0222,2024-01-26,10:07,Cardiology,192,26.45990316766849,Cleanliness,Negative,Region-4,True
+P0064,2024-05-24,01:29,Pediatrics,183,20.14831169960628,Wait Time,Positive,Region-2,True
+P0824,2024-09-10,01:10,Radiology,102,24.84828493768003,Cleanliness,Negative,Region-4,False
+P0910,2024-11-01,18:27,Cardiology,169,3.2787162821512466,Treatment Effectiveness,Positive,Region-5,True
+P0303,2024-11-30,23:25,Cardiology,181,41.37527412351424,Cleanliness,Negative,Region-1,False
+P0409,2024-12-10,15:01,Pediatrics,17,20.922894997087166,Cleanliness,Positive,Region-3,False
+P0140,2024-08-28,12:43,Cardiology,161,8.888758208358633,Cleanliness,Negative,Region-7,False
+P0947,2024-05-26,13:11,Emergency,91,34.052934986048214,Treatment Effectiveness,Neutral,Region-7,False
+P0305,2024-10-01,11:13,Oncology,184,30.693891884053443,Cleanliness,Neutral,Region-6,True
+P0493,2024-01-05,05:17,Emergency,231,54.984110395564855,Cleanliness,Positive,Region-1,True
+P0098,2024-02-25,08:28,Radiology,79,16.609603061788057,Wait Time,Negative,Region-3,False
+P0888,2024-08-08,04:02,Pediatrics,230,21.956467389003596,Staff Behavior,Negative,Region-4,True
+P0136,2024-03-09,19:39,Orthopedics,27,12.131956808699918,Wait Time,Negative,Region-8,True
+P0454,2024-05-15,19:15,Radiology,124,57.41414334846991,Treatment Effectiveness,Neutral,Region-5,False
+P0671,2024-07-06,20:18,Pediatrics,107,68.64597009434173,Staff Behavior,Negative,Region-2,True
+P0744,2024-07-25,15:26,Oncology,196,65.29604513246878,Treatment Effectiveness,Positive,Region-7,False
+P0946,2024-07-06,17:30,Pediatrics,84,42.046622655389044,Cleanliness,Neutral,Region-8,False
+P0420,2024-01-24,01:05,Orthopedics,48,40.245650289247074,Staff Behavior,Negative,Region-9,True
+P0743,2024-07-24,08:24,Orthopedics,62,17.308862910715323,Wait Time,Neutral,Region-8,True
+P0155,2024-01-27,04:26,Oncology,32,30.230426109173422,Staff Behavior,Negative,Region-3,False
+P0415,2024-10-18,06:41,Pediatrics,129,38.04558353673034,Cleanliness,Neutral,Region-6,False
+P0100,2024-10-14,16:15,Oncology,80,62.21613277265554,Cleanliness,Positive,Region-7,False
+P0490,2024-04-09,20:51,Pediatrics,152,16.36742490531684,Treatment Effectiveness,Positive,Region-9,False
+P0409,2024-07-04,17:50,Radiology,12,34.61771848370299,Cleanliness,Positive,Region-7,False
+P0952,2024-10-10,00:24,Emergency,180,33.856167084136096,Cleanliness,Positive,Region-3,True
+P0033,2024-05-27,22:22,Radiology,61,2.0297738450114453,Staff Behavior,Neutral,Region-2,True
+P0371,2024-02-07,15:34,Orthopedics,161,31.395836027478413,Staff Behavior,Negative,Region-2,False
+P0444,2024-07-16,15:22,Oncology,235,62.95449144775007,Cleanliness,Neutral,Region-1,False
+P0951,2024-09-15,18:32,Oncology,246,18.596032516941516,Treatment Effectiveness,Neutral,Region-3,True
+P0856,2024-08-18,10:24,Emergency,16,31.831659116910092,Staff Behavior,Neutral,Region-3,False
